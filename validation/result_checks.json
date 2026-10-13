@@ -1,0 +1,216 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "global model count",
+      "actual": 50.0,
+      "expected": 50.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "global questionnaire count",
+      "actual": 45.0,
+      "expected": 45.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "neutral PC1 variance percent",
+      "actual": 47.13177136416374,
+      "expected": 47.13177136416,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "analog PC1 variance percent",
+      "actual": 41.34175511348062,
+      "expected": 41.34175511348,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "eligible item associations",
+      "actual": 1325.0,
+      "expected": 1325.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "SSD input_items",
+      "actual": 1325.0,
+      "expected": 1325.0,
+      "absolute_tolerance": 1e-06
+    },
+    {
+      "check": "SSD retained_items",
+      "actual": 1324.0,
+      "expected": 1324.0,
+      "absolute_tolerance": 1e-06
+    },
+    {
+      "check": "SSD K",
+      "actual": 16.0,
+      "expected": 16.0,
+      "absolute_tolerance": 1e-06
+    },
+    {
+      "check": "SSD r",
+      "actual": 0.2621042530805523,
+      "expected": 0.26210425308,
+      "absolute_tolerance": 1e-06
+    },
+    {
+      "check": "SSD r2",
+      "actual": 0.06869863948291421,
+      "expected": 0.06869863948,
+      "absolute_tolerance": 1e-06
+    },
+    {
+      "check": "ratio count",
+      "actual": 1312.0,
+      "expected": 1312.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "primary loading-change N",
+      "actual": 1292.0,
+      "expected": 1292.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "primary loading-change rho",
+      "actual": -0.2146676778237557,
+      "expected": -0.2146676778,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "primary loading-change r",
+      "actual": -0.1490354107152252,
+      "expected": -0.1490354107,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "log_ratio loading-change rho",
+      "actual": -0.2147497134091075,
+      "expected": -0.2147497134,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "log_ratio loading-change N",
+      "actual": 1291.0,
+      "expected": 1291.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "within_questionnaire loading-change rho",
+      "actual": -0.2712187138014755,
+      "expected": -0.2712187138,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "within_questionnaire loading-change N",
+      "actual": 1291.0,
+      "expected": 1291.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "variance_residual loading-change rho",
+      "actual": -0.1910486319762909,
+      "expected": -0.191048632,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "variance_residual loading-change N",
+      "actual": 1291.0,
+      "expected": 1291.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "split-half mean",
+      "actual": 0.5747332075152031,
+      "expected": 0.5747332075,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "human/neutral geometric variance",
+      "actual": 0.39398429591460515,
+      "expected": 0.3939842959,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "analog/neutral geometric variance",
+      "actual": 1.2032783973004852,
+      "expected": 1.2032783973,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "weighted score vs PC1 r",
+      "actual": 0.8637338389152713,
+      "expected": 0.8637338389,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "weighted neutral/analog rho",
+      "actual": 0.48168067226890754,
+      "expected": 0.4816806723,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "exact-prompt observed pairs",
+      "actual": 139.0,
+      "expected": 139.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "exact-prompt agreement",
+      "actual": 0.7050359712230215,
+      "expected": 0.7050359712,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "exact-prompt standardized correlation",
+      "actual": 0.5502098511733473,
+      "expected": 0.5502098512,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "same-scale aggregate correlation",
+      "actual": 0.9154343680971804,
+      "expected": 0.9154343681,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "annotation matched N",
+      "actual": 289.0,
+      "expected": 289.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "annotation complete N",
+      "actual": 281.0,
+      "expected": 281.0,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "inner-life item r",
+      "actual": 0.2245502113917527,
+      "expected": 0.2245502114,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "observable-behavior item r",
+      "actual": -0.2265553228315627,
+      "expected": -0.2265553228,
+      "absolute_tolerance": 1e-07
+    },
+    {
+      "check": "six-dimension R squared",
+      "actual": 0.2213338719403689,
+      "expected": 0.221334,
+      "absolute_tolerance": 1e-06
+    },
+    {
+      "check": "inner-life ICC3,3",
+      "actual": 0.8750190629284598,
+      "expected": 0.8750190629,
+      "absolute_tolerance": 1e-07
+    }
+  ],
+  "scope": "Checks saved outputs against reported populations and numerical results; run_analysis.py regenerates outputs. SSD is rerun only when --embeddings is supplied."
+}

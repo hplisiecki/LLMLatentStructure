@@ -1,0 +1,9 @@
+{
+  "total_pairs": 57,
+  "counts": {
+    "B": 35,
+    "C": 19,
+    "A": 3
+  },
+  "nominal_pairs": 8550
+}

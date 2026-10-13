@@ -1,0 +1,4 @@
+Supervised Semantic Differential
+https://github.com/hplisiecki/Supervised-Semantic-Differential
+Revision: 03c51ac6ccb2b2c7ff536be5f5e347c257fac356
+Runtime subset; public imports restricted to the functions used by this study.

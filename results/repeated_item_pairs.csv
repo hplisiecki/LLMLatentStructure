@@ -1,0 +1,58 @@
+tier,q_a,i_a,q_b,i_b,item
+A,BAI,0,BAI,13,Fear of losing control
+B,IRQ,1,The Internal Representation Questionnaire,1,I can close my eyes and easily picture a scene that I have experienced
+B,IRQ,29,The Internal Representation Questionnaire,29,I can easily choose to imagine this sentence in my mind pronounced unnaturally slowly
+B,IRQ,28,The Internal Representation Questionnaire,28,I can easily imagine and mentally rotate three-dimensional geometric figures
+B,IRQ,33,The Internal Representation Questionnaire,33,"I can easily imagine someone clearly talking, and then imagine the same voice with a heavy cold"
+B,IRQ,35,The Internal Representation Questionnaire,35,I can easily imagine the sound of a trumpet getting louder
+B,Need for Closure Scale (NFCS),32,Personal Need for Structure (PNS) Scale,2,I enjoy having a clear and structured mode of life.
+C,Varieties of Inner Speech Questionnaire,17,Varieties of Inner Speech Questionnaire-R,17,"I evaluate my behavior using my inner speech. For example I say to myself, “that was good” or “that was stupid”"
+C,Varieties of Inner Speech Questionnaire,3,Varieties of Inner Speech Questionnaire-R,3,I experience the voices of other people asking me questions in my head.
+A,State Trait Anxiety Inventory,19,State Trait Anxiety Inventory,20,I feel pleasant
+A,State Trait Anxiety Inventory,1,State Trait Anxiety Inventory,33,I feel secure
+B,Need for Closure Scale (NFCS),9,Personal Need for Structure (PNS) Scale,7,I hate to change my plans at the last minute.
+C,Self-Monitoring Scale-Revised,8,Self-Monitoring Scale,20,I have trouble changing my behavior to suit different people and different situations.
+B,IRQ,26,The Internal Representation Questionnaire,26,I hear a running summary of everything I am doing in my head
+C,Varieties of Inner Speech Questionnaire,15,Varieties of Inner Speech Questionnaire-R,15,"I hear other people's actual voices in my head, saying things that they actually once said to me."
+C,Varieties of Inner Speech Questionnaire,11,Varieties of Inner Speech Questionnaire-R,11,"I hear other people's actual voices in my head, saying things that they have never said to me before."
+C,Varieties of Inner Speech Questionnaire,4,Varieties of Inner Speech Questionnaire-R,4,I hear other people's voices nagging me in my head.
+C,Varieties of Inner Speech Questionnaire,2,Varieties of Inner Speech Questionnaire-R,2,"I hear the voice of another person in my head. For example, when I have done something foolish I hear my mother's voice criticising me in my mind."
+B,IRQ,17,The Internal Representation Questionnaire,17,"I hear words in my ""mind’s ear"" when I think"
+B,IRQ,16,The Internal Representation Questionnaire,16,I like to give myself some down time to talk through thoughts in my mind
+B,IRQ,0,The Internal Representation Questionnaire,0,I often enjoy the use of mental pictures to reminisce
+B,IRQ,19,The Internal Representation Questionnaire,19,I often talk to myself internally while watching TV
+B,IRQ,5,The Internal Representation Questionnaire,5,I often use mental images or pictures to help me remember things
+B,IRQ,18,The Internal Representation Questionnaire,18,I rarely vocalize thoughts in my mind
+B,IRQ,27,The Internal Representation Questionnaire,27,I rehearse in my mind how someone might respond to a text message before I send it
+B,IRQ,23,The Internal Representation Questionnaire,23,"I see words in my ""mind’s eye"" when I think"
+C,Varieties of Inner Speech Questionnaire,12,Varieties of Inner Speech Questionnaire-R,12,I talk back and forward to myself in my mind about things.
+C,Varieties of Inner Speech Questionnaire,16,Varieties of Inner Speech Questionnaire-R,16,I talk silently to myself telling myself not to do things.
+C,Varieties of Inner Speech Questionnaire,10,Varieties of Inner Speech Questionnaire-R,10,I talk silently to myself telling myself to do things.
+B,IRQ,14,The Internal Representation Questionnaire,14,I tend to think things through verbally when I am relaxing
+B,IRQ,10,The Internal Representation Questionnaire,10,I think about problems in my mind in the form of a conversation with myself
+B,IRQ,34,The Internal Representation Questionnaire,34,I think I have a large vocabulary in my native language compared to others
+C,Varieties of Inner Speech Questionnaire,8,Varieties of Inner Speech Questionnaire-R,8,"I think in inner speech about what I have done, and whether it was right or not."
+C,Varieties of Inner Speech Questionnaire,0,Varieties of Inner Speech Questionnaire-R,0,I think to myself in words using brief phrases and single words rather than full sentences.
+C,Varieties of Inner Speech Questionnaire,6,Varieties of Inner Speech Questionnaire-R,6,I think to myself in words using full sentences.
+B,IRQ,12,The Internal Representation Questionnaire,12,"If I am walking somewhere by myself, I frequently think of conversations that I’ve recently had"
+B,IRQ,11,The Internal Representation Questionnaire,11,"If I am walking somewhere by myself, I often have a silent conversation with myself"
+B,IRQ,9,The Internal Representation Questionnaire,9,If I imagine my memories visually they are more often static than moving
+B,IRQ,8,The Internal Representation Questionnaire,8,If I talk to myself in my head it is usually accompanied by visual imagery
+C,Varieties of Inner Speech Questionnaire,14,Varieties of Inner Speech Questionnaire-R,14,"If I were to write down my thoughts on paper, they would read like a normal grammatical sentence."
+B,IRQ,30,The Internal Representation Questionnaire,30,"In school, I had no problems with geometry"
+B,IRQ,31,The Internal Representation Questionnaire,31,It is easy for me to imagine the sensation of licking a brick
+B,IRQ,13,The Internal Representation Questionnaire,13,My inner speech helps my imagination
+B,IRQ,6,The Internal Representation Questionnaire,6,My memories are mainly visual in nature
+B,IRQ,20,The Internal Representation Questionnaire,20,My memories often involve conversations I’ve had
+B,IRQ,2,The Internal Representation Questionnaire,2,My mental images are very vivid and photographic
+C,Varieties of Inner Speech Questionnaire,5,Varieties of Inner Speech Questionnaire-R,5,"My thinking in words is more like a dialog with myself, rather than my own thoughts in a monolog."
+C,Varieties of Inner Speech Questionnaire,13,Varieties of Inner Speech Questionnaire-R,13,"My thinking in words is shortened compared to my normal out-loud speech. For example, rather than saying to myself things like ‘I need to go to the shops’, I will just say ‘shops’ to myself in my head."
+C,Varieties of Inner Speech Questionnaire,7,Varieties of Inner Speech Questionnaire-R,7,"My thinking to myself in words is like shorthand notes, rather than full, proper, grammatical English."
+B,IRQ,3,The Internal Representation Questionnaire,3,The old saying “A picture is worth a thousand words” is certainly true for me
+C,Varieties of Inner Speech Questionnaire,1,Varieties of Inner Speech Questionnaire-R,1,"When I am talking to myself about things in my mind, it is like I am going back and forward asking myself questions and then answering them."
+C,Varieties of Inner Speech Questionnaire,9,Varieties of Inner Speech Questionnaire-R,9,"When I am talking to myself about things in my mind, it is like I am having a conversation with myself."
+B,IRQ,22,The Internal Representation Questionnaire,22,"When I hear someone talking, I see words written down in my mind"
+B,IRQ,21,The Internal Representation Questionnaire,21,"When I read, I tend to hear a voice in my ""mind’s ear"""
+B,IRQ,4,The Internal Representation Questionnaire,4,"When I think about someone I know well, I instantly see their face in my mind"
+B,IRQ,15,The Internal Representation Questionnaire,15,"When thinking about a social problem, I often talk it through in my head"
+B,IRQ,7,The Internal Representation Questionnaire,7,When traveling to get to somewhere I tend to think more visually than verbally

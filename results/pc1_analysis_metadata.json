@@ -1,0 +1,11 @@
+{
+  "bootstrap_replicates": 5000,
+  "seed": 20260929,
+  "bootstrap_unit": "questionnaire",
+  "matched_items": 289,
+  "matched_questionnaires": 44,
+  "unmatched_items": 11,
+  "pc1_source": "results/item_pc1_correlations.csv",
+  "pc1_source_sha256": "9973f163cc90978454c995f5b0e2ac13d32756bf9ca5adeb3b15bc077ce20fad",
+  "caveat": "Full-precision item associations with the 45-questionnaire PC1; not leave-one-questionnaire-out; component and annotators held fixed; exploratory."
+}

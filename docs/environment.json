@@ -1,0 +1,19 @@
+{
+  "python": "3.12.7",
+  "numpy": "1.26.4",
+  "scipy": "1.17.1",
+  "pandas": "3.0.2",
+  "scikit-learn": "1.5.2",
+  "matplotlib": "3.10.8",
+  "statsmodels": "0.14.6",
+  "factor-analyzer": "0.5.1",
+  "krippendorff": "0.8.2",
+  "openpyxl": "3.1.5",
+  "gensim": "4.4.0",
+  "spacy": "3.8.7",
+  "threadpoolctl": "3.5.0",
+  "requests": "2.32.5",
+  "tqdm": "4.67.1",
+  "click": "8.1.8",
+  "en-core-web-lg": "3.8.0"
+}

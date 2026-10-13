@@ -1,0 +1,62 @@
+questionnaire,item,n_models,source_item_indices,reason
+COPE Inventory,I accept that this has happened and that it can't be changed.,2,20,insufficient_coverage
+COPE Inventory,I accept the reality of the fact that it happened.,2,43,insufficient_coverage
+COPE Inventory,I act as though it hasn't even happened.,2,56,insufficient_coverage
+COPE Inventory,"I admit to myself that I can't deal with it, and quit trying.",2,8,insufficient_coverage
+COPE Inventory,I ask people who have had similar experiences what they did.,2,44,insufficient_coverage
+COPE Inventory,I concentrate my efforts on doing something about it.,2,4,insufficient_coverage
+COPE Inventory,I daydream about things other than this.,2,15,insufficient_coverage
+COPE Inventory,I discuss my feelings with someone.,2,10,insufficient_coverage
+COPE Inventory,"I do what has to be done, one step at a time.",2,57,insufficient_coverage
+COPE Inventory,"I drink alcohol or take drugs, in order to think about it less.",2,34,insufficient_coverage
+COPE Inventory,I feel a lot of emotional distress and I find myself expressing those feelings a lot.,2,45,insufficient_coverage
+COPE Inventory,"I focus on dealing with this problem, and if necessary let other things slide a little.",2,32,insufficient_coverage
+COPE Inventory,I force myself to wait for the right time to do something.,2,48,insufficient_coverage
+COPE Inventory,I get sympathy and understanding from someone.,2,33,insufficient_coverage
+COPE Inventory,I get upset and let my emotions out.,2,2,insufficient_coverage
+COPE Inventory,"I get upset, and am really aware of it.",2,16,insufficient_coverage
+COPE Inventory,I get used to the idea that it happened.,2,12,insufficient_coverage
+COPE Inventory,I give up the attempt to get what I want.,2,36,insufficient_coverage
+COPE Inventory,"I go to movies or watch TV, to think about it less.",2,42,insufficient_coverage
+COPE Inventory,I hold off doing anything about it until the situation permits.,2,21,insufficient_coverage
+COPE Inventory,I just give up trying to reach my goal.,2,23,insufficient_coverage
+COPE Inventory,I keep myself from getting distracted by other thoughts or activities.,2,14,insufficient_coverage
+COPE Inventory,I kid around about it.,2,35,insufficient_coverage
+COPE Inventory,I laugh about the situation.,2,7,insufficient_coverage
+COPE Inventory,I learn something from the experience.,2,58,insufficient_coverage
+COPE Inventory,I learn to live with it.,2,53,insufficient_coverage
+COPE Inventory,I let my feelings out.,2,27,insufficient_coverage
+COPE Inventory,I look for something good in what is happening.,2,37,insufficient_coverage
+COPE Inventory,I make a plan of action.,2,18,insufficient_coverage
+COPE Inventory,I make fun of the situation.,2,49,insufficient_coverage
+COPE Inventory,I make jokes about it.,2,19,insufficient_coverage
+COPE Inventory,I make sure not to make matters worse by acting too soon.,2,40,insufficient_coverage
+COPE Inventory,I pray more than usual.,2,59,insufficient_coverage
+COPE Inventory,I pretend that it hasn't really happened.,2,39,insufficient_coverage
+COPE Inventory,I put aside other activities in order to concentrate on this.,2,54,insufficient_coverage
+COPE Inventory,I put my trust in God.,2,6,insufficient_coverage
+COPE Inventory,I reduce the amount of effort I'm putting into solving the problem.,2,50,insufficient_coverage
+COPE Inventory,I refuse to believe that it has happened.,2,26,insufficient_coverage
+COPE Inventory,I restrain myself from doing anything too quickly.,2,9,insufficient_coverage
+COPE Inventory,"I say to myself ""this isn't real.""",2,5,insufficient_coverage
+COPE Inventory,I seek God's help.,2,17,insufficient_coverage
+COPE Inventory,I sleep more than usual.,2,30,insufficient_coverage
+COPE Inventory,I take additional action to try to get rid of the problem.,2,24,insufficient_coverage
+COPE Inventory,I take direct action to get around the problem.,2,46,insufficient_coverage
+COPE Inventory,I talk to someone about how I feel.,2,51,insufficient_coverage
+COPE Inventory,I talk to someone to find out more about the situation.,2,13,insufficient_coverage
+COPE Inventory,I talk to someone who could do something concrete about the problem.,2,29,insufficient_coverage
+COPE Inventory,I think about how I might best handle the problem.,2,38,insufficient_coverage
+COPE Inventory,I think hard about what steps to take.,2,55,insufficient_coverage
+COPE Inventory,I try hard to prevent other things from interfering with my efforts at dealing with this.,2,41,insufficient_coverage
+COPE Inventory,I try to come up with a strategy about what to do.,2,31,insufficient_coverage
+COPE Inventory,I try to find comfort in my religion.,2,47,insufficient_coverage
+COPE Inventory,I try to get advice from someone about what to do.,2,3,insufficient_coverage
+COPE Inventory,I try to get emotional support from friends or relatives.,2,22,insufficient_coverage
+COPE Inventory,I try to grow as a person as a result of the experience.,2,0,insufficient_coverage
+COPE Inventory,I try to lose myself for a while by drinking alcohol or taking drugs.,2,25,insufficient_coverage
+COPE Inventory,"I try to see it in a different light, to make it seem more positive.",2,28,insufficient_coverage
+COPE Inventory,I turn to work or other substitute activities to take my mind off things.,2,1,insufficient_coverage
+COPE Inventory,I use alcohol or drugs to help me get through it.,2,52,insufficient_coverage
+COPE Inventory,I use alcohol or drugs to make myself feel better.,2,11,insufficient_coverage
+EPQ-R,Do you enjoy cooperating with others?,49,53,constant

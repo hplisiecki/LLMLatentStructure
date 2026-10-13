@@ -1,0 +1,51 @@
+centroid_label,profile_id,post_id,cosine,seed,start_token_idx,end_token_idx,start_sent_idx,end_sent_idx,snippet_anchor,essay_text_surface,essay_text_lemmas,side
+pos_cluster_1,223,0,0.8178180885281956,<DOC>,0,1,0,0,Faintness or dizziness,Faintness or dizziness,faintness dizziness,pos
+pos_cluster_1,368,0,0.8057077544990505,<DOC>,0,2,0,0,Nausea or upset stomach,Nausea or upset stomach,nausea upset stomach,pos
+pos_cluster_1,1167,0,0.7846112351740268,<DOC>,0,1,0,0,Do you suffer from sleeplessness?,Do you suffer from sleeplessness?,suffer sleeplessness,pos
+pos_cluster_1,159,0,0.764668448881187,<DOC>,0,2,0,0,Nervousness or shakiness inside,Nervousness or shakiness inside,nervousness shakiness inside,pos
+pos_cluster_1,458,0,0.7507813811301935,<DOC>,0,2,0,0,Numbness or tingling in parts of your body,Numbness or tingling in parts of your body,numbness tingle body,pos
+pos_cluster_1,403,0,0.72613057073647,<DOC>,0,1,0,0,Dizzy or lightheaded,Dizzy or lightheaded,dizzy lightheade,pos
+pos_cluster_1,212,0,0.7151277511591624,<DOC>,0,5,0,0,"Even if something bad is about to happen to me, I rarely experience fear or nervousness.","Even if something bad is about to happen to me, I rarely experience fear or nervousness.",bad happen rarely experience fear nervousness,pos
+pos_cluster_1,243,0,0.7071507527580709,<DOC>,0,1,0,0,Faint / lightheaded,Faint / lightheaded,faint lightheaded,pos
+pos_cluster_1,1112,0,0.7045616507547383,<DOC>,0,4,0,0,"I rarely, if ever, have trouble sleeping due to stress or anxiety.","I rarely, if ever, have trouble sleeping due to stress or anxiety.",rarely trouble sleep stress anxiety,pos
+pos_cluster_1,116,0,0.698181946117706,<DOC>,0,2,0,0,I feel nervous and restless,I feel nervous and restless,feel nervous restless,pos
+pos_cluster_2,384,0,0.7393638446471691,<DOC>,0,1,0,0,I feel frightened,I feel frightened,feel frightened,pos
+pos_cluster_2,157,0,0.7234056245365382,<DOC>,0,1,0,0,I become easily frightened.,I become easily frightened.,easily frightened,pos
+pos_cluster_2,108,0,0.6801342666676453,<DOC>,0,2,0,0,	I calm myself down by talking silently to myself,	I calm myself down by talking silently to myself,calm talk silently,pos
+pos_cluster_2,574,0,0.6466134559812914,<DOC>,0,3,0,0,I talk silently to myself telling myself not to do things.,I talk silently to myself telling myself not to do things.,talk silently tell thing,pos
+pos_cluster_2,620,0,0.6466134559812914,<DOC>,0,3,0,0,I talk silently to myself telling myself to do things.,I talk silently to myself telling myself to do things.,talk silently tell thing,pos
+pos_cluster_2,472,0,0.6451866893572203,<DOC>,0,1,0,0,Trouble getting your breath,Trouble getting your breath,trouble breath,pos
+pos_cluster_2,243,0,0.6384478537738879,<DOC>,0,1,0,0,Faint / lightheaded,Faint / lightheaded,faint lightheaded,pos
+pos_cluster_2,452,0,0.6368556010548664,<DOC>,0,2,0,0,Suddenly scared for no reason,Suddenly scared for no reason,suddenly scared reason,pos
+pos_cluster_2,296,0,0.6310371267766566,<DOC>,0,1,0,0,Terrified or afraid,Terrified or afraid,terrified afraid,pos
+pos_cluster_2,153,0,0.6084558447132966,<DOC>,0,4,0,0,I feel like crying when I see other people crying.,I feel like crying when I see other people crying.,feel like cry people cry,pos
+pos_cluster_3,545,0,0.7963158219493061,<DOC>,0,7,0,0,"When I want to feel less negative emotion (such as sadness or anger), I change what I’m thinking about.","When I want to feel less negative emotion (such as sadness or anger), I change what I’m thinking about.",want feel negative emotion sadness anger change think,pos
+pos_cluster_3,212,0,0.7398953397435931,<DOC>,0,5,0,0,"Even if something bad is about to happen to me, I rarely experience fear or nervousness.","Even if something bad is about to happen to me, I rarely experience fear or nervousness.",bad happen rarely experience fear nervousness,pos
+pos_cluster_3,1246,0,0.7280642526868241,<DOC>,0,2,0,0,Are you often troubled about feelings of guilt?,Are you often troubled about feelings of guilt?,trouble feeling guilt,pos
+pos_cluster_3,140,0,0.7177709762035321,<DOC>,0,5,0,0,Sometimes I feel a sense of panic or terror for no apparent reason.,Sometimes I feel a sense of panic or terror for no apparent reason.,feel sense panic terror apparent reason,pos
+pos_cluster_3,1,0,0.7132125154095524,<DOC>,0,3,0,0,"When I’m upset, my emotions feel overwhelming","When I’m upset, my emotions feel overwhelming",upset emotion feel overwhelming,pos
+pos_cluster_3,19,0,0.7098054208325806,<DOC>,0,5,0,0,Sometimes minor events cause me to feel intense sadness.,Sometimes minor events cause me to feel intense sadness.,minor event cause feel intense sadness,pos
+pos_cluster_3,246,0,0.6994586281483411,<DOC>,0,1,0,0,Feeling of guilt,Feeling of guilt,feel guilt,pos
+pos_cluster_3,754,0,0.6933822252767492,<DOC>,0,0,0,0,I keep my emotions to myself.,I keep my emotions to myself.,emotion,pos
+pos_cluster_3,382,0,0.6928617726305673,<DOC>,0,1,0,0,Feelings of worthlessness,Feelings of worthlessness,feeling worthlessness,pos
+pos_cluster_3,40,0,0.6842747496311877,<DOC>,0,2,0,0,I take disappointments so keenly that I can’t put them out of my mind,I take disappointments so keenly that I can’t put them out of my mind,disappointment keenly mind,pos
+neg_cluster_1,950,0,0.7824564642198295,<DOC>,0,8,0,0,"In the long run, we the voters are responsible for bad government on a national as well as a local level.","In the long run, we the voters are responsible for bad government on a national as well as a local level.",long run voter responsible bad government national local level,neg
+neg_cluster_1,1219,0,0.7740031870030507,<DOC>,0,3,0,0,Do you usually take the initiative in making new friends?,Do you usually take the initiative in making new friends?,usually initiative new friend,neg
+neg_cluster_1,556,0,0.7729817439884936,<DOC>,0,11,0,0,"Many women are actually seeking special favors, such as hiring policies that favor them over men, under the guise of asking for ""equality"".","Many women are actually seeking special favors, such as hiring policies that favor them over men, under the guise of asking for ""equality"".",woman actually seek special favor hire policy favor man guise ask equality,neg
+neg_cluster_1,889,0,0.7641250566415708,<DOC>,0,4,0,0,Government agencies closely monitor all citizens,Government agencies closely monitor all citizens,government agency closely monitor citizen,neg
+neg_cluster_1,1272,0,0.7606727809112213,<DOC>,0,4,0,0,I think cooperation in workplace is more important than competition,I think cooperation in workplace is more important than competition,think cooperation workplace important competition,neg
+neg_cluster_1,119,0,0.7597204691669465,<DOC>,0,4,0,0,I found it difficult to work up the initiative to do things,I found it difficult to work up the initiative to do things,find difficult work initiative thing,neg
+neg_cluster_1,818,0,0.7527710901406377,<DOC>,0,4,0,0,The average citizen can have an influence on government decisions.,The average citizen can have an influence on government decisions.,average citizen influence government decision,neg
+neg_cluster_1,1128,0,0.7494623952711227,<DOC>,0,4,0,0,I think it is important everyone has equal access to healthcare,I think it is important everyone has equal access to healthcare,think important equal access healthcare,neg
+neg_cluster_1,842,0,0.7488816449119517,<DOC>,0,4,0,0,"When I'm in a group of people, I'm often the one who speaks on behalf of the group.","When I'm in a group of people, I'm often the one who speaks on behalf of the group.",group people speak behalf group,neg
+neg_cluster_1,739,0,0.7451385826213816,<DOC>,0,11,0,0,"If your personal safety is at stake, it’s sensible to avoid members of ethnic groups known to behave more aggressively.","If your personal safety is at stake, it’s sensible to avoid members of ethnic groups known to behave more aggressively.",personal safety stake ’ sensible avoid member ethnic group know behave aggressively,neg
+neg_cluster_2,610,0,0.7925939024531414,<DOC>,0,4,0,0,"When dining out, I like to go to places where I have been before so that I know what to expect.","When dining out, I like to go to places where I have been before so that I know what to expect.",dine like place know expect,neg
+neg_cluster_2,402,0,0.7726537406580007,<DOC>,0,4,0,0,I would get a lot of pleasure from owning expensive luxury goods.,I would get a lot of pleasure from owning expensive luxury goods.,lot pleasure expensive luxury good,neg
+neg_cluster_2,616,0,0.7625638158175325,<DOC>,0,3,0,0,People at work are pretty friendly towards me.,People at work are pretty friendly towards me.,people work pretty friendly,neg
+neg_cluster_2,877,0,0.7604441804748688,<DOC>,0,5,0,0,"I would like to live in a very expensive, high-class neighborhood.","I would like to live in a very expensive, high-class neighborhood.",like live expensive high class neighborhood,neg
+neg_cluster_2,1259,0,0.7583346930483512,<DOC>,0,3,0,0,Do you enjoy meeting new people?,Do you enjoy meeting new people?,enjoy meet new people,neg
+neg_cluster_2,956,0,0.7530714638369316,<DOC>,0,3,0,0,People are generally pretty friendly towards me.,People are generally pretty friendly towards me.,people generally pretty friendly,neg
+neg_cluster_2,672,0,0.731900124372608,<DOC>,0,6,0,0,I feel comfortable sharing my private thoughts and feelings with my partner,I feel comfortable sharing my private thoughts and feelings with my partner,feel comfortable share private thought feeling partner,neg
+neg_cluster_2,377,0,0.7231747819461406,<DOC>,0,3,0,0,In most ways my life is close to my ideal,In most ways my life is close to my ideal,way life close ideal,neg
+neg_cluster_2,1252,0,0.719318359460052,<DOC>,0,4,0,0,Can you usually let yourself go and enjoy yourself at a lively party?,Can you usually let yourself go and enjoy yourself at a lively party?,usually let enjoy lively party,neg
+neg_cluster_2,340,0,0.7159690204461093,<DOC>,0,1,0,0,Sometimes other groups must be kept in their place.,Sometimes other groups must be kept in their place.,group place,neg

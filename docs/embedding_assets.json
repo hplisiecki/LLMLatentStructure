@@ -1,0 +1,10 @@
+{
+  "dolma_300_2024_1.2M.100_combined.kv": {
+    "bytes": 38988107,
+    "sha256": "1986d254077bcd1d63af83f60327180ce8b24024939391ba65774e11270e3add"
+  },
+  "dolma_300_2024_1.2M.100_combined.kv.vectors.npy": {
+    "bytes": 1440001328,
+    "sha256": "3a94ba43a215de4862679ac23cbb5463642248f3baf550c4f5bc867a0aa145a3"
+  }
+}

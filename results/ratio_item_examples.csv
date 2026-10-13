@@ -1,0 +1,21 @@
+questionnaire,item_index,item,var_neutral,var_human_sim,variance_ratio,n_neutral,n_human_sim
+HEXACO,27,I think that most people like some aspects of my personality.,0.375,0.02,18.375,49,49
+BFI-2,9,Is curious about many different things.,0.367,0.02,18.0,50,49
+Five Facet Mindfullness Questionnaire (FFMQ),7,"I don’t pay attention to what I’m doing because I’m daydreaming, worrying, or otherwise distracted.",0.977,0.061,16.064,48,50
+Schwartz_Values,12,I seek out pleasure in life,1.266,0.08,15.819,48,50
+BFI-2,52,"Is persistent, works until the task is finished.",0.314,0.02,15.689,49,50
+Meaning in Life Questionnaire (MLQ),7,I am seeking a purpose or mission for my life.,3.455,0.227,15.224,49,50
+Interpersonal Reactivity Index (IRI),25,"When I am reading an interesting story or novel, I imagine how I would feel if the events in the story were happening to me. ",1.064,0.077,13.9,49,49
+The Internal Representation Questionnaire,1,I can close my eyes and easily picture a scene that I have experienced,1.922,0.142,13.533,49,49
+HEXACO,46,"When someone I know well is unhappy, I can almost feel that person's pain myself.",1.383,0.104,13.334,50,49
+DERS (Difficulties in Emotion Regulation Scale),7,I care about what I am feeling,1.664,0.125,13.309,50,49
+BFI-2,1,"Is compassionate, has a soft heart.",0.264,0.02,13.223,49,50
+Schwartz_Values,5,I value my creativity and individuality,0.793,0.061,13.032,48,50
+The Internal Representation Questionnaire,21,"When I read, I tend to hear a voice in my ""mind’s ear""",1.594,0.123,12.924,49,49
+ECR-R (Experiences in Close Relationships–Revised),28,It helps to turn to my romantic partner in times of need.,1.178,0.092,12.824,49,50
+BFI-2,16,Feels little sympathy for others.,0.792,0.062,12.753,49,49
+BIS_BAS Scales,5,How I dress is important to me.,1.053,0.083,12.633,48,49
+Varieties of Inner Speech Questionnaire-R,17,"I evaluate my behavior using my inner speech. For example I say to myself, “that was good” or “that was stupid”",3.085,0.249,12.376,48,46
+Self-Monitoring Scale-Revised,3,In conversations‚ I am sensitive to even the slightest change in the facial expression of the person I’m conversing with.,2.551,0.207,12.297,48,49
+MCQ-30,4,I am aware of the way my mind works when I am thinking through a problem,0.511,0.042,12.265,49,49
+EPQ-R,91,Are you sometimes bubbling over with energy and sometimes very sluggish?,0.246,0.02,12.057,47,49

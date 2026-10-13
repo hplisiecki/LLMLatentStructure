@@ -1,0 +1,10 @@
+{
+  "n_items": 1310,
+  "geometric_mean_variances": {
+    "neutral": 0.8682537777156014,
+    "human_simulation": 0.3420783532884773,
+    "llm_analog": 1.0447510140997207
+  },
+  "human_to_neutral": 0.39398429591460515,
+  "analog_to_neutral": 1.2032783973004852
+}

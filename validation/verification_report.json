@@ -1,0 +1,43 @@
+{
+  "status": "passed",
+  "python_environment": "docs/environment.json",
+  "checks": {
+    "default_pipeline": "Rebuilt successfully in an isolated copy with saved results removed, using the documented environment.",
+    "semantic_analysis": "Rebuilt successfully from the supplied item associations and fingerprinted external embeddings.",
+    "reported_statistics": "35 checks passed",
+    "input_integrity": "155 files verified",
+    "dependencies": "pip check passed",
+    "optional_factor_extraction": "EFA and PCA functions smoke-tested; full stochastic refit not performed",
+    "output_consistency": "All 55 expected output files generated; 53 CSV, JSON, spreadsheet, array, PNG, and LaTeX files matched the packaged results. Numeric tolerance: relative 1e-9, absolute 1e-10. PNGs compared by pixels, ignoring encoding metadata."
+  },
+  "ssd": {
+    "items": 1324,
+    "dimensions": 16,
+    "r_squared": 0.06869863948291421,
+    "cluster_sizes": [
+      39,
+      35,
+      26,
+      48,
+      52
+    ]
+  },
+  "content_audit": {
+    "scope": [
+      "analysis code",
+      "documentation",
+      "structured outputs",
+      "annotation labels",
+      "PDF metadata",
+      "spreadsheet metadata"
+    ],
+    "result": "Release code, documentation, structured outputs, and metadata checked for private paths, credentials, and unintended identifying information. Raw model responses preserved. Rater IDs anonymized. Third-party attribution and license retained.",
+    "pdf_fonts": "Figure fonts are embedded. The standalone annotation handbook uses standard PDF Helvetica fonts; it is supplied separately from the manuscript."
+  },
+  "external_assets": [
+    "GloVe/Dolma KeyedVectors and sidecar",
+    "en_core_web_lg 3.8.0"
+  ],
+  "scope": "Analysis-only repository; manuscript maintained separately.",
+  "last_verified": "2026-10-12"
+}

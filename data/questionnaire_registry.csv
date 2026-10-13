@@ -1,0 +1,528 @@
+quest,scale_prompt,Good,pre_prompt,Components,Thematic category,DOI,Additional,Full Name
+Adult Temperament Questionnaire,"1 = extremely untrue
+2= quite untrue
+3= slightly true 
+4 = neither true or false
+5 = slightly true
+6 = quite true
+7 = extremely true
+
+Example response: 1
+",1,,"{1: ""Negative affect"", 2: ""Extraversion"", 3: ""Effortful control:"", 4:  ""Orienting sensitivity, 5: ""Affiliativeness""}",Individual differences,https://doi.org/10.1016/j.jrp.2006.11.002,,Adult Temperament Questionnaire
+Ambivalent Sexism Inventory,"0 = Disagree strongly
+1 = Disagree somewhat 
+2 = Disagree slightly 
+3 = Agree slightly 
+4 = Agree somewhat
+5 = Agree strongly
+
+Example response: 5
+",1,,"{1: ""Hostile Sexism"", 2: ""Benevolent sexism""}",Values and social attitudes,https://doi.org/10.1037/0022-3514.70.3.491,,Ambivalent Sexism Inventory
+BAI,"0 = Not at all
+1 = Mildly, but it didn’t bother  me much
+2 = Moderately – it wasn’t pleasant at times
+3 = Severely – it bothered me a lot
+
+Example response: 2
+",1,"Below is a list of common symptoms of anxiety. Please carefully read each item in the list. Indicate how much you have been
+bothered by that symptom during the past month, including today.","{1: ""Anxiety""}",Psychopathology,https://psycnet.apa.org/doi/10.1037/t02025-000,,Beck Anxiety Inventory
+BAIS,"0 = No image present at all
+1 = Vague and dim
+2 = Moderately clear but weak
+3 = Clear and moderately vivid
+4 = Very clear and vivid
+5 = Perfectly clear and as vivid as real hearing 
+
+Example response: 3
+",0,,"{1: ""Vividness Subscale"", 2: ""Control Subscale""}",Cognitive functioning,https://doi.org/10.4324/9780429330070,,Bucknell Auditory Imagery Scale
+BDI-II,"0
+1
+2
+3
+Example response: 2
+",0,,"{1: ""Depression""}",Psychopathology,https://psycnet.apa.org/doi/10.1037/t00742-000,"Dozois, D. J., Dobson, K. S., & Ahnberg, J. L. (1998). A psychometric evaluation of the Beck Depression Inventory–II. Psychological assessment, 10(2), 83.",Beck Depression Inventory ll
+BFI-2,"1 = Strongly disagree 
+2 = Disagree 
+3 = Neutral (neither agree nor disagree) 
+4 = Agree 
+5 = Strongly agree
+
+Example response: 3
+",1,"Here are a number of characteristics that may or may not apply to you. For example, do you agree that you are
+someone who likes to spend time with others? Please write a number next to each statement to indicate the extent
+to which you agree or disagree with that statement. 
+
+I am someone who...","{1: ""Extraversion"", 2: ""Agreeableness"", 3: ""Conscientiousness"", 4: ""Negative Emotionality"", 5: ""Open-Mindedness""}",Individual differences,https://psycnet.apa.org/doi/10.1037/pspp0000096,,Big Five Inventory–2
+BIS_BAS Scales,"1 = Very true for me
+2 = Somewhat true for me
+3 = Somewhat false for me
+4 = Very false for me
+
+Example response: 1
+",1,"Each item of this questionnaire is a statement that a person may either agree with or disagree with.  For each item, indicate how much you agree or disagree with what the item says. ","{1: ""BAS Drive"", 2: ""BAS Fun Seeking"", 3: ""BAS Reward Responsiveness"", 4: ""BIS""}",Individual differences,https://psycnet.apa.org/doi/10.1037/0022-3514.67.2.319,,Behavioral Inhibition / Behavioral Activation Scale
+BSI,"0 = Not at all
+1 = A little bit
+2 = Moderately
+3 = Quite a bit
+4 = Extremely
+R = Refused to answer
+
+Example response: 0
+",1,"Please rate each item based on how much you were bothered by that symptom during the past week, including today.","{1: ""Somatization"", 2: ""Obsessive-Compulsive"", 3: ""Interpersonal Sensitivity"", 4: ""Depression"", 5: ""Anxiety"", 6: ""Hostility"", 7: ""Phobic Anxiety"", 8: ""Paranoid Ideation"", 9: ""Psychoticism""}",Psychopathology,doi:10.1017/S0033291700048017,,Brief Symptom Inventory
+Balanced Inventory of Desirable Responding Version 6,"1 = Not true at all
+2 = Very rarely true
+3 = Rarely true 
+4 = Somewhat true
+5 = Often true
+6 = Very often true
+7 = Very true
+
+Example response: 1
+",1,,"{1: ""Self-Deceptive Positivity"", 2: ""Impression Management""}",Social functioning,https://psycnet.apa.org/doi/10.1037/t13624-000,,Balanced Inventory of Desirable Responding  Version 6
+Basic Psychological Needs Scale,"1 = Not true at all
+2 = Very rarely true
+3 = Rarely true 
+4 = Somewhat true
+5 = Often true
+6 = Very often true
+7 = Very true
+
+Example response: 1
+",1,,"{1: ""Autonomy"", 2: ""Competence"", 3: ""Relatedness""}",Well-being,https://doi.org/10.1207/S15327965PLI1104_01,,Basic Psychological Needs Scale
+Bayesian Racism Scale,"1 = Strongly Disagree
+2 = Disagree
+3 = Somewhat Disagree
+4 = Neither Agree nor Disagree
+5 = Somewhat Agree
+6 = Agree
+7 = Strongly Agree
+
+Example response: 6
+",1,,"{1: ""Bayesian racism""}",Values and social attitudes,https://doi.org/10.1007/s10447-021-09436-y,,Bayesian Racism Scale
+Belief in a Just World Scale,"1 = Strongly Disagree
+2 = Disagree
+3 = Somewhat Disagree
+4 = Somewhat Agree
+5 = Agree
+6 = Strongly Agree
+
+Example response: 6
+",1,,"{1: ""General belief in a just world"", 2: ""Personal belief in a just world"", 3: ""Procedural justice"", 4: ""Distributive justice""}",Values and social attitudes,http://dx.doi.org/10.1027/1614-0001/a000032,,Belief in a Just World Scale
+CERQ (Cognitive Emotion Regulation Questionnaire),"1 = Almost never 
+2 =Rarely 
+3 = Occassionally 
+4 = Frequently 
+5 = Almost always 
+
+Example response: 5
+",1,"Please indicate how often you think in the following ways when facing intense, threatening, or stressful situations.","{1: ""Self-blame"", 2: ""Acceptance"", 3: ""Rumination"", 4: ""Positive refocusing"", 5: ""Refocus on planning"", 6: ""Positive reappraisal"", 7: ""Putting into perspective"", 8: ""Catastrophizing"", 9: ""Other-blame""}
+",Emotion regulation,https://doi.org/10.1027/1015-5759.23.3.141?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle,,Cognitive Emotion Regulation Questionnaire
+CMQ Conspiracy mentality,"0 = certainly not true
+1 = almost certainly not true
+2 = very unlikely to be true
+3 = somewhat unlikely to be true
+4 = rather unlikely to be true
+5 = unsure / neither true nor false
+6 = somewhat likely to be true
+7 = rather likely to be true
+8 = very likely to be true
+9 = almost certainly true
+10 = certainly true
+
+Example response: 8
+",1,,"{1: ""Conspiracy mentality""}",Cognitive functioning,https://doi.org/10.3389/fpsyg.2013.00225,,Conspiracy Mentality Questionnaire
+COPE Inventory,"1 = I usually don't do this at all
+2 = I usually do this a little bit
+3 = I usually do this a medium amount
+4 = I usually do this a lot
+
+Example response: 1
+",1,"We are interested in how people respond when they confront difficult or stressful events in their lives. There are lots of ways to try to deal with stress.  This questionnaire asks you to indicate what you generally do and feel, when you experience stressful events.  Obviously, different events bring out somewhat different responses, but think about what you usually do when you are under a lot of stress.
+
+Then respond to each of the following items by blackening one number on your answer sheet for each, using the response choices listed just below.  Please try to respond to each item separately in your mind from each other item.  Choose your answers thoughtfully, and make your answers as true FOR YOU as you can.  Please answer every item.  There are no ""right"" or ""wrong"" answers, so choose the most accurate answer for YOU--not what you think ""most people"" would say or do.  Indicate what YOU usually do when YOU experience a stressful event.","{1: ""Positive Reinterpretation and Growth"", 2: ""Mental Disengagement"", 3: ""Focus on and Venting of Emotions"", 4: ""Use of Instrumental Social Support"", 5: ""Active Coping"", 6: ""Denial"", 7: ""Religious Coping"", 8: ""Humor"", 9: ""Behavioral Disengagement"", 10: ""Restraint"", 11: ""Use of Emotional Social Support"", 12: ""Substance Use"", 13: ""Acceptance"", 14: ""Suppression of Competing Activities"", 15: ""Planning""}",Emotion regulation,https://psycnet.apa.org/doi/10.1037/t10027-000,,Coping Orientation to Problems Experienced
+DASS-21,"0 = Did not apply to me at all 
+1 = Applied to me to some degree, or some of the time 
+2 = Applied to me to a considerable degree or a good part of time 
+3 = Applied to me very much or most of the time 
+
+Example response: 0
+",1,"Please read each statement and circle a number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past week.","{1: ""Depression"", 2: ""Anxiety"",  3: ""Stress""}",Psychopathology,"Lovibond, S.H. & Lovibond, P.F. (1995). Manual for the Depression Anxiety & Stress Scales. (2nd Ed.)Sydney: Psychology Foundation.",,Depression Anxiety Stress Scales
+DERS (Difficulties in Emotion Regulation Scale),"1 = Almost never
+2 = Sometimes
+3 = About half the time
+4 = Most of the time
+5 = Almost always
+
+Example response: 4
+",1,Please press the response that is most true for you.,"{1: ""Non-Acceptance of Emotional Responses"", 2: ""Difficulties Engaging in Goal-Directed Behavior"", 3: ""Impulse Control Difficulties"", 4: ""Lack of Emotional Awareness"", 5: ""Limited Access to Emotion Regulation Strategies"", 6: ""Lack of Emotional Clarity""}",Emotion regulation,https://doi.org/10.1007/s10862-008-9102-4,,Difficulties in Emotion Regulation Scale
+ECR-R (Experiences in Close Relationships–Revised),"1 = Strongly Disagree
+2 = Disagree
+3 = Somewhat Disagree
+4 = Neither Agree nor Disagree
+5 = Somewhat Agree
+6 = Agree
+7 = Strongly Agree
+
+Example response: 6
+",1,"The statements below concern how you feel in emotionally intimate relationships. We are interested in how you generally experience relationships, not just in what is happening in a current relationship. Respond to each statement by circling a number to indicate how much you agree or disagree with the statement.","{1: ""Attachment-related anxiety"", 2 ""Attachment-related avoidance""}",Social functioning,https://psycnet.apa.org/doi/10.1037/0022-3514.78.2.350,,Experiences in Close Relationships–Revised
+EMOTION REGULATION QUESTIONNAIRE (ERQ)_,"1 = Strongly Disagree
+2 = Disagree
+3 = Somewhat Disagree
+4 = Neither Agree nor Disagree
+5 = Somewhat Agree
+6 = Agree
+7 = Strongly Agree
+
+Example response: 6
+",1,"We would like to ask you some questions about your emotional life, in particular, how
+you control (that is, regulate and manage) your emotions. The questions below involve
+two distinct aspects of your emotional life. One is your emotional experience, or what
+you feel like inside. The other is your emotional expression, or how you show your
+emotions in the way you talk, gesture, or behave. Although some of the following
+questions may seem similar to one another, they differ in important ways.","{1: ""Cognitive Reappraisal"", 2: ""Expressive Suppression""}",Emotion regulation,https://psycnet.apa.org/doi/10.1037/0022-3514.85.2.348,,Emotion Regulation Questionnaire
+EPQ-R,"0 = Yes
+1 = No
+
+Example response: 1
+",1,Please read each statement carefully and select Yes or No based on how well it describes you. There are no right or wrong answers.,"{1: ""Psychoticism"", 2: ""Extraversion"", 3: ""Neuroticism"", 4: ""Lie scale""}",Individual differences,https://psycnet.apa.org/doi/10.1037/t05461-000,,Eysenck Personality Questionnaire–Revised
+Five Facet Mindfullness Questionnaire (FFMQ),"1 = Never or rarely true
+2 = Rarely true
+3 = Sometimes true
+4 = Often true
+5 = Very often or always true
+
+Example response: 4
+",1,Please rate each of the following statements with the number that best describes your own opinion of what is generally true for you.,"{1: ""Observing"", 2: ""Describing"", 3: ""Acting with Awareness"", 4: ""Nonjudging of Inner Experience"", 5: ""Nonreactivity to Inner Experience""}",Well-being,https://psycnet.apa.org/doi/10.1007/978-3-031-47219-0_15,,Five Facet Mindfullness Questionnaire
+GISQ,"MULTIPLE SCALES Frequency scale:
+0 = Never
+1 = Rarely
+2 = Sometimes
+3 = Often
+4 = Very often
+5 = All the time
+
+Confidence check:
+1 = Not confident
+2 = Slightly confident
+3 = Moderately confident
+4 = Quite confident
+5 = Very confident
+Example response: 5",0,,"{1: ""Content"", 2: ""Functions"", 3: ""Contexts""}",Cognitive functioning,http://dx.doi.org/10.13140/RG.2.2.25856.61445,,General Inner Speech Questionnaire
+Gavagai,"1 = Strongly disagree
+2 = Disagree
+3 = Somewhat disagree
+4 = Somewhat agree
+5 = Agree
+6 = Strongly agree
+
+Example response: 2
+",1,"You will be asked a number of questions regardingyour opinions about yourself. There are no right or wrong answers. Even if you shouldencounter an unfamiliar word, please do not look it up. We are interested in yourintuitions—that is, your gut feelings—so please respond to unfamiliar words basedon your first reaction. ","{1: ""Entity theory"", 2: ""Incremental theory""}",Cognitive functioning,https://doi.org/10.7717/peerj.10209,,Gavagai
+HADS (Hospital Anxiety and Depression Scale),"DIFFERENT FORMAT
+0
+1
+2
+3
+Example response: 2
+",0,,"{1: ""Anxiety"", 2: ""Depression""}",Psychopathology,"Zigmond, A. S., & Snaith, R. P. (1983). The hospital anxiety and depression scale. Acta Psychiatrica Scandinavica, 67(6), 361–370. or https://doi.org/10.1111/bjop.12637",,Hospital Anxiety and Depression Scale
+HEXACO,"5 = Strongly agree 
+4 = Agree 
+3 = Neutral (neither agree nor disagree) 
+2 = Disagree 
+1 = Strongly disagree
+
+Example response: 3
+",1,Please read each statement and decide how much you agree or disagree with that statement.  ,"{1: ""Honesty-Humility"", 2: ""Emotionality"", 3: ""Extraversion"", 4: ""Agreeableness"", 5: ""Conscientiousness"", 6: ""Openness""}",Individual differences,https://psycnet.apa.org/doi/10.1207/s15327906mbr3902_8,,HEXACO Personality Inventory
+IRQ,"1 = Strongly disagree
+2 = Disagree
+3 = Neutral
+4 = Agree
+5 = Strongly agree
+Example response: 5",0,,"{1: ""Visual"", 2: ""Verbal"", 3: ""Orthographic"", 4: ""Manipulation""}",Emotion regulation,https://doi.org/10.3758/s13428-020-01354-y,,Internal Representations Questionnaire
+Individualism-collectivism IND-COL,"1 = never / definitely no
+2 = almost never
+3 = very rarely
+4 = rarely
+5 = sometimes
+6 = often
+7 = very often
+8 = almost always
+9 = always / definitely yes
+
+Example response: 8
+",1,,"{1: ""Horizontal Individualism"", 2: Vertical Individualism"", 3: ""Horizontal Collectivism"", 4: ""Vertical Collectivism""}",Values and social attitudes,https://doi.org/10.1177/106939719502900302,,Individualism-Collectivism Scale
+Interpersonal Reactivity Index (IRI),"1 = does not describe me at all
+2 = describes me slightly
+3 = describes me moderately
+4 = describes me well
+5 = describes me very well
+
+Example response: 5
+",1,"The following statements inquire about your thoughts and feelings in a variety of situations. For each item, indicate how well it describes you by choosing the appropriate number","{1: ""Fantasy"", 2: ""Perspective Taking"", 3: ""Empathic Concern"", 4: ""Personal Distress""}",Social functioning,https://doi.org/10.1007/978-3-030-77644-2_62-1,,Interpersonal Reactivity Index
+MCQ-30,"1 = Do not agree
+2 = Agree slightly
+3 = Agree moderately
+4 = Agree very much
+
+Example response: 3
+",1,"This questionnaire is concerned with beliefs people have about their thinking. Listed
+below are a number of beliefs that people have expressed. Please read each item and
+say how much you generally agree with it by picking the appropriate number.","{1: ""Cognitive Confidence"", 2: ""Positive Beliefs about Worry"", 3: ""Cognitive Self-Consciousness"", 4: ""Negative Beliefs about Uncontrollability and Danger"", 5: ""Need to Control Thoughts""}",Cognitive functioning,https://psycnet.apa.org/doi/10.1016/S0005-7967(03)00147-5,,Meta Cognitions Questionnaire
+Meaning in Life Questionnaire (MLQ),"1 = Absolutely untrue
+2 = Mostly untrue
+3 = Somewhat untrue 
+4 = Can’t say True or False
+5 = Somewhat true
+6 = Mostly true
+7 = Absolutely true
+
+Example response: 1
+",1,"Please take a moment to think about what makes your life and existence feel important and significant
+to you. Please respond to the following statements as truthfully and accurately as you can.","{1: ""Presence"", 2: ""Search""}",Well-being,"Steger, M. F. (2006). Development and validation of the Meaning in Life Questionnaire: A measure of
+eudaimonic well-being. Dissertation Abstracts International: Section B: The Sciences and
+Engineering, 66, pp. 4257",,Meaning of Life Questionnaire
+Moral Foundations Questionnaire (MFQ-30)_1,"0 = not at all relevant (This consideration has nothing to do with my judgments of right and wrong) 
+1 = not very relevant 
+2 = slightly relevant 
+3 = somewhat relevant 
+4 = very relevant 
+5 = extremely relevant (This is one of the most important factors when I judge right and wrong) 
+
+Example response: 4",1,"When you decide whether something is right or wrong, to what extent are the following considerations relevant to your thinking? ","{1: ""Harm/Care"", 2: ""Fairness/Reciprocity"", 3: ""In-group/Loyalty"", 4: ""Authority/Respect"", 5: ""Purity/Sanctity""}",Values and social attitudes,https://psycnet.apa.org/doi/10.1037/t05651-000,,Moral Foundations Questionnaire
+Moral Foundations Questionnaire (MFQ-30)_2,"0 = Disagree strongly
+1 = Disagree moderately
+2 = Disagree slightly 
+3 = Agree slightly 
+4 = Agree moderately
+5 = Agree strongly
+
+Example response: 5
+",1,Please read the following sentences and indicate your agreement or disagreement.,,Values and social attitudes,,,
+NEED FOR COGNITION SCALE,"1 = Extremely Uncharacteristic 
+2 = Somewhat Uncharacteristic 
+3 = Uncertain
+4 = Somewhat Characteristic
+5 = Extremely Characteristic
+
+Example response: 2
+",1,"For each statement listed below, pick the number that indicates the extent to which you feel it is characteristic of
+you. For example, if the statement is not at all like you, pick number 1 under “Extremely Uncharacteristic,” or if you really can’t
+decide if the statement is or is not characteristic of you, pick number 3 under “Uncertain.” ","{1: ""Enjoyment of cognitive stimulation"", 2: ""Preference for complexity, 3: ""Commitment of cognitive effort, 4: ""Desire for understanding""}",Cognitive functioning,https://doi.org/10.1037/0022-3514.42.1.116?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle,https://doi.org/10.1002/mar.20108,Need For Cognition Scale
+NIEQ,"Items 1–5 (Frequency scale)
+0 = Never
+1 = Rarely
+2 = Sometimes
+3 = Often
+4 = Very often
+5 = Always
+Example response: 5
+
+Items 6–10 (Proportion scale)
+0 = None
+1 = A little
+2 = Some
+3 = About half
+4 = Most
+5 = All
+Example response: 5
+",0,,"{1: ""Inner Speaking"", 2: ""Inner Seeing"", 3: ""Unsymbolized Thinking"", 4: ""Feelings"", 5: ""Sensory Awareness""}",Cognitive functioning,https://doi.org/10.3389/fpsyg.2018.02615,,Nevada Inner Experience Questionnaire
+Narcissistic Personality Inventory,DIFFERENT FORMAT You choose a better matching statement out of a pair,0,,"{1: ""Authority"", 2: ""Exhibitionism"", 3: ""Superiority"", 4: ""Vanity"", 5: ""Exploitativeness"", 6: ""Entitlement"", 7: ""Self-Sufficiency""}",Psychopathology,https://psycnet.apa.org/doi/10.1037/0022-3514.54.5.890,https://doi.org/10.1080/00223890802388590,Narcissistic Personality Inventory
+Need for Closure Scale (NFCS),"1 = Strongly disagree 
+2 = Moderately disagree 
+3 = Slightly disagree
+4 = Slightly agree  
+5 = Moderately agree  
+6 = Strongly agree 
+
+Example response: 4
+",1,Read each of the following statements and decide how much you agree with each according to your beliefs and experiences.,"{1: ""Order"", 2: ""Need for predictability"", 3: ""Decisiveness"", 4: ""Avoidance of ambiguity"", 5: ""Closed-mindedness""}",Cognitive functioning,https://psycnet.apa.org/doi/10.1037/t00995-000,,Need for Closure Scale
+PROTESTANT WORK ETHIC SCALE_,"1 = Strongly Disagree
+2 = Disagree
+3 = Somewhat Disagree
+4 = Neither Agree nor Disagree
+5 =Somewhat Agree
+6 = Agree
+7 = Strongly Agree
+Example response: 4",1,,"{1: ""Protestant Work Ethic""}",Values and social attitudes,https://doi.org/10.1037/h0030477,https://doi.org/10.1016/0191-8869(94)90260-7,Protestant Work Ethic Scale
+Personal Need for Structure (PNS) Scale,"1 = Strongly Disagree
+2 = Disagree
+3 = Somewhat Disagree
+4 = Somewhat Agree
+5 = Agree
+6 = Strongly Agree
+",1,,"{1: ""Desire for Structure"", 2: ""Response to Lack of Structure""}",Cognitive functioning,https://psycnet.apa.org/doi/10.1037/t00912-000,,Personal Need for Structure Scale
+Psi-Q,"0 = No image at all
+1 = Very weak
+2 = Weak
+3 = Slightly weak
+4 = Moderate
+5 = Moderately vivid
+6 = Clear
+7 = Quite vivid
+8 = Very vivid
+9 = Extremely vivid
+10 = As vivid as real life
+Example response: 10",0,,"{1: ""Vision"", 2: ""Sound"", 3: ""Smell"", 4: ""Taste"", 5: ""Touch"", 6: ""Bodily Sensation"", 7: ""Emotional Feeling""}",Cognitive functioning,https://doi.org/10.1111/bjop.12050,,Plymouth Sensory Imagery Questionnaire
+Psychological Well-Being Scales,"1 = strongly agree 
+2 = somewhat agree 
+3 = a little agree
+4 = neither agree or disagree
+5 = a little disagree
+6 = somewhat disagree
+7 = strongly disagree
+
+Example response: 6
+
+",1,Indicate how much you agree or disagree with each statement.,"{1: ""Autonomy"", 2: ""Environmental Mastery"", 3: ""Personal Growth"", 4: ""Positive Relations"", 5: ""Purpose in Life"", 6: ""Self-Acceptance""}",Well-being,https://psycnet.apa.org/doi/10.1037/0022-3514.69.4.719,,Psychological Well-Being Scale
+RWA scale 22-item,"1 = Very strongly disagree
+2 = Strongly disagree
+3 = Moderately disagree
+4 = Slightly disagree
+5 = Completely neutral
+6 = Slightly agree
+7 = Moderately agree
+8 = Strongly agree
+9 = Very strongly agree
+
+Example response: 6
+",1,,"{1: ""Right-Wing Authoritarianism""}",Values and social attitudes,http://dx.doi.org/10.1016/s0065-2601(08)60382-2,https://doi.org/10.1016/j.paid.2009.08.006,Right Wing Authoritarianism Scale
+Religious Orientation Scale-R,"5 = Strongly agree 
+4 = Agree 
+3 = Neutral (neither agree nor disagree) 
+2 = Disagree 
+1 = Strongly disagree
+
+Example response: 3
+",1,,"{1: ""Extrinsic religious orientation"", 2: ""Instrinsic religious orientation""}",Values and social attitudes,https://psycnet.apa.org/doi/10.2307/1386745,,Religious Orientation Scale
+Rosenberg Self-Esteem Scale,"1 = Strongly agree
+2 = Agree
+3 = Disagree
+4 = Strongly disagree 
+
+Example response: 1
+",1,,"{1: ""Global self-esteem""}",Individual differences,https://psycnet.apa.org/doi/10.1037/t01038-000,,Rosenberg Self-Esteem Scale
+SVQ,"1 = Not at all
+2 = Slightly
+3 = Moderately
+4 = Somewhat
+5 = Quite a bit
+6 = Very much
+7 = Very much / Often
+
+Example response: 7",1,,"{1: ""Spatial Search"", 2: ""Behavioural-Organizational"", 3: ""Cognitive-Attentional"", 4: ""Affective""}",Values and social attitudes,https://psycnet.apa.org/doi/10.1037/h0087081,,Self-Verbalization Questionnaire
+Schwartz_Values,"1 = Does not describe me at all
+2 = Somewhat unlike me
+3 = Neither like me nor unlike me
+4 = Somewhat like me
+5 = Exactly like me
+
+Example response: 5",1,Following are 30 short descriptions. Please use the scale to describe how similar each description is to yourself:,,Values and social attitudes,,,Schwartz Values Questionnaire
+Self-Monitoring Scale-Revised,"0 = Certainly, always false 
+1 = Generally false 
+2 = Somewhat false, but with exceptions 
+3 = Somewhat true, but with exceptions 
+4 = Generally true
+5 = Certainly, always true
+
+Example response: 0
+",1,The satements below concern your personal reactions to a number of situations.  It is important that you answer as frankly and as honestly as you can.,"{ 1: ""Ability to modify self-presentation"", 2: ""Sensitivity to expressive behavior of others""}",Cognitive functioning,http://dx.doi.org/10.1037/0022-3514.46.6.1349,,Self Monitoring Scale–Revised
+Self-Monitoring Scale,"0 = True
+1 = False
+
+Example response: 0
+",1,"The satements below concern your personal reactions to a number of situations. No two statements are exactly alike, so consider each statement carefully before answering. If a statement is true or mostly true as applied to you, mark 1 as your answer. If a statement is false or usually true as applied to you mark 0 as your answer. It is important that you answer as frankly and as honestly as you can.","{1: ""Self-Monitoring Scale""}",Cognitive functioning,http://psycnet.apa.org/doi/10.1037/h0037039,,Self Monitoring Scale
+Self-Talk Scale,"1 = never
+2 = hardly ever
+3 = sometimes 
+4 = fairly often
+5 = very often 
+
+Example response: 1
+
+",1,"The statements below are continuations of a sentence starting with ""I talk to myself when…"", please indicate how often you tend to talk to yourself in each of these situations.","{1: ""Self-criticism"", 2: ""Self-reinforcement"", 3: ""Self-management"", 4: ""Social assessment""}",Cognitive functioning,https://doi.org/10.1080/00223890802484498,,Self-Talk Scale
+Social Dominance Orientation Scale 7,"7 = Strongly Favor 
+6 = Somewhat Favor 
+5 = Slightly Favor
+4 = Neutral 
+3 = Slightly Oppose
+2 = Somewhat Oppose
+1 = Strongly Oppose   
+
+Example response: 6
+",1,"Show how much you favor or oppose each idea below by selecting a number from 1
+to 7 on the scale below. You can work quickly; your first feeling is generally best.","{1: ""Pro-Trait Dominance"", 2: ""Con-Trait Dominance"", 3: ""Pro-Trait Antiegalitarianism"", 4: ""Con-Trait Antiegalitarianism""}",Values and social attitudes,https://psycnet.apa.org/doi/10.1037/t46233-000,,Social Dominance Orientation Scale 7
+Spheres of Control-3,"1 = strongly disagree
+2 = disagree
+3 = somewhat disagree
+4 = neither agree nor disagree
+5 = somewhat agree
+6 = agree
+7 = strongly agree
+
+Example response: 6
+",1,Write a number from 1 to 7 to indicate how much you agree with each statement.,"{1: ""Personal Efficacy"", 2: ""Interpersonal control"", 3: ""Socio-political control""}",Individual differences,https://doi.org/10.1016/0191-8869(90)90130-J,,Spheres of Control Scale
+State Trait Anxiety Inventory,"MULTIPLE SCALES
+Part 1:
+1 = not at all
+2 = somewhat
+3 = moderately so
+4 = very much so 
+
+Example response: 1
+
+Part 2:
+1 = almost never
+2 = sometimes
+3 = often
+4 = almost always
+
+Example response: 2
+",1,"Read each statement and select the appropriate response to indicate how you feel right now, that is, at this very moment. There are no right or wrong answers. Do not spend too much time on any one statement but give the answer which seems to describe your present feelings best.","{1: ""State Anxiety"", 2: ""Trait Anxiety""}",Psychopathology,"Spielberger, C.D. (1989) State-Trait Anxiety Inventory: Bibliography. 2nd Edition, Consulting Psychologists Press, Palo Alto.",https://doi.org/10.1002/1097-4679(197704)33:2%3C450::AID-JCLP2270330225%3E3.0.CO;2-M,State Trait Anxiety Inventory
+The Internal Representation Questionnaire,"5 = Strongly agree 
+4 = Agree 
+3 = Neutral (neither agree nor disagree) 
+2 = Disagree 
+1 = Strongly disagree
+
+Example response: 3
+",1,Indicate how much you agree or disagree with each statement.,"{1: ""Internal Verbalization"", 2: ""Visual Imagery"", 3: ""Orthographic Imagery"", 4: ""Representational Manipulation""}",Cognitive functioning, https://doi.org/10.3758/s13428-020-01354-y,,Internal Representations Questionnaire
+The Satisfaction with Life Scale,"5 = Strongly agree 
+4 = Agree 
+3 = Neutral (neither agree nor disagree) 
+2 = Disagree 
+1 = Strongly disagree
+
+Example response: 3
+",1,Indicate how much you agree or disagree with each statement.,"{1: ""Satisfaction with Life""}",Well-being,https://doi.org/10.1207/s15327752jpa4901_13,,Satisfaction with Life Scale
+VVIQ-2,"1 = No image at all
+2 = Vague and dim
+3 = Moderately clear
+4 = Clear
+5 = Perfectly clear and as vivid as real life
+",0,,"{1: ""Vividness of Visual Imagery""}",Cognitive functioning,https://doi.org/10.2466/pms.108.3.798-802,,Vividness of Visual Imagery Questionnaire
+VVIQ-A,"0 = No image at all
+1 = Very vague and dim
+2 = Vague and unclear
+3 = Moderately clear
+4 = Clear and vivid
+5 = Perfectly clear and as vivid as real seeing 
+
+Example response: 3
+",0,,"{1: ""Vividness of Visual Imagery""}",Cognitive functioning,https://doi.org/10.2466/pms.108.3.798-802,,Vividness of Visual Imagery Questionnaire–Revised
+Varieties of Inner Speech Questionnaire ,"1 = Certainly does not apply
+2 = Mostly does not apply
+3 = Slightly does not apply
+4 = Slightly applies
+5 = Mostly applies
+6 = Certainly applies
+
+Example response: 6
+",0,"In response to each statement, indicate to what extend it applies to you.","{1: ""Dialogicality"", 2: ""Condensation"", 3: ""Other People in Inner Speech, 4: ""Evaluative/Motivational Inner Speech""}",Cognitive functioning,https://doi.org/10.1016/j.concog.2011.08.005,,Varieties of Inner Speech Questionnaire 
+Varieties of Inner Speech Questionnaire-R,"1 = Never
+2 = Rarely
+3 = Occasionally
+4 = Sometimes
+5 = Often
+6 = Very often
+7 = All the time
+
+Example response: 7",1,"In response to each item, indicate how often do you have the described experience.","{1: ""Dialogic"", 2: ""Condensed"", 3: ""Other People’s Voices"", 4: ""Evaluative/Critical"", 5: ""Positive/Regulatory""}",Cognitive functioning,https://doi.org/10.1016/j.concog.2018.07.001,,Varieties of Inner Speech Questionnaire–Revised

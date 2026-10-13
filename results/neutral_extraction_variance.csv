@@ -1,0 +1,46 @@
+questionnaire,method,n_models,n_items,n_factors,first_dimension_percent,first_share_of_retained_percent,metric
+Adult Temperament Questionnaire,PCA,37,77,26,38.68769826730058,39.909562710153835,PC1 share of total unstandardized item variance
+Ambivalent Sexism Inventory,EFA,40,22,1,31.618527946959475,100.0,F1 sum of squared pattern loadings divided by item count
+BAI,EFA,41,20,1,59.87135177526527,100.0,F1 sum of squared pattern loadings divided by item count
+BFI-2,PCA,39,60,11,30.437128951314445,38.584662422188345,PC1 share of total unstandardized item variance
+BIS_BAS Scales,EFA,42,24,2,43.14818200530204,82.39908684778827,F1 sum of squared pattern loadings divided by item count
+BSI,PCA,25,53,4,63.96209555274979,76.33980523998963,PC1 share of total unstandardized item variance
+Balanced Inventory of Desirable Responding Version 6,PCA,38,40,3,30.174116681159468,59.80025261217003,PC1 share of total unstandardized item variance
+Basic Psychological Needs Scale,PCA,38,51,10,31.899612403537347,38.97973781391843,PC1 share of total unstandardized item variance
+Bayesian Racism Scale,EFA,42,6,1,36.86372474721255,100.0,F1 sum of squared pattern loadings divided by item count
+Belief in a Just World Scale,EFA,47,7,1,35.37698168683846,100.0,F1 sum of squared pattern loadings divided by item count
+CERQ (Cognitive Emotion Regulation Questionnaire),EFA,43,36,2,26.75009531263315,60.04621833882957,F1 sum of squared pattern loadings divided by item count
+CMQ Conspiracy mentality,EFA,48,5,1,28.32653227037099,100.0,F1 sum of squared pattern loadings divided by item count
+COPE Inventory,PCA,2,30,1,99.99999999999993,100.0,PC1 share of total unstandardized item variance
+DASS-21,EFA,40,21,1,55.652156154323976,100.0,F1 sum of squared pattern loadings divided by item count
+DERS (Difficulties in Emotion Regulation Scale),EFA,39,36,2,38.96186743105633,75.21916185173188,F1 sum of squared pattern loadings divided by item count
+ECR-R (Experiences in Close Relationships–Revised),EFA,39,36,2,28.381109468998545,64.27682479967085,F1 sum of squared pattern loadings divided by item count
+EMOTION REGULATION QUESTIONNAIRE (ERQ)_,EFA,42,10,1,28.701282099214154,100.0,F1 sum of squared pattern loadings divided by item count
+EPQ-R,PCA,31,98,30,28.444619511935755,28.44461951193577,PC1 share of total unstandardized item variance
+Five Facet Mindfullness Questionnaire (FFMQ),PCA,38,39,3,38.68396105847643,65.33762201433966,PC1 share of total unstandardized item variance
+Gavagai,EFA,45,8,2,27.921490556324525,60.322618031044584,F1 sum of squared pattern loadings divided by item count
+HEXACO,PCA,31,100,30,28.893340898922432,28.89334089892245,PC1 share of total unstandardized item variance
+Individualism-collectivism IND-COL,EFA,38,34,3,14.831784852380068,37.72534130332636,F1 sum of squared pattern loadings divided by item count
+Interpersonal Reactivity Index (IRI),EFA,41,28,2,24.553554400316578,59.97743765655406,F1 sum of squared pattern loadings divided by item count
+MCQ-30,EFA,36,30,1,31.273690869012526,100.0,F1 sum of squared pattern loadings divided by item count
+Meaning in Life Questionnaire (MLQ),EFA,42,10,2,34.85580083757522,59.6998608333059,F1 sum of squared pattern loadings divided by item count
+Moral Foundations Questionnaire (MFQ-30),EFA,34,32,2,23.49987832533193,70.93581359946721,F1 sum of squared pattern loadings divided by item count
+NEED FOR COGNITION SCALE,EFA,40,18,2,20.124833428521022,53.52177597505295,F1 sum of squared pattern loadings divided by item count
+Need for Closure Scale (NFCS),PCA,32,41,3,28.2518243679423,56.02730727669345,PC1 share of total unstandardized item variance
+PROTESTANT WORK ETHIC SCALE_,EFA,40,19,4,11.983135739340426,28.50073269581415,F1 sum of squared pattern loadings divided by item count
+Personal Need for Structure (PNS) Scale,EFA,45,12,3,23.961644913813732,48.8602444411721,F1 sum of squared pattern loadings divided by item count
+Psychological Well-Being Scales,PCA,30,42,6,26.728258835428264,38.73122541540827,PC1 share of total unstandardized item variance
+RWA scale 22-item,EFA,31,22,3,19.680613544132044,46.23252247530457,F1 sum of squared pattern loadings divided by item count
+Religious Orientation Scale-R,EFA,41,14,2,21.588603757080566,50.320272558292636,F1 sum of squared pattern loadings divided by item count
+Rosenberg Self-Esteem Scale,EFA,41,10,2,19.038083675097305,53.63632907196008,F1 sum of squared pattern loadings divided by item count
+SVQ,EFA,39,27,2,35.00839818362285,67.80665745670669,F1 sum of squared pattern loadings divided by item count
+Schwartz_Values,EFA,35,30,3,20.220314058721954,40.73730573066898,F1 sum of squared pattern loadings divided by item count
+Self-Monitoring Scale,EFA,35,25,3,16.157664437131476,42.998370757561915,F1 sum of squared pattern loadings divided by item count
+Self-Monitoring Scale-Revised,EFA,41,13,2,24.720000599502743,59.85082585370047,F1 sum of squared pattern loadings divided by item count
+Self-Talk Scale,PCA,16,16,1,45.122737575239675,100.0,PC1 share of total unstandardized item variance
+Social Dominance Orientation Scale 7,EFA,39,16,1,33.809441561287684,100.0,F1 sum of squared pattern loadings divided by item count
+Spheres of Control-3,PCA,17,30,3,31.51597735678849,51.04077331687633,PC1 share of total unstandardized item variance
+State Trait Anxiety Inventory,PCA,9,39,8,36.862786706231454,36.86278670623149,PC1 share of total unstandardized item variance
+The Internal Representation Questionnaire,PCA,15,36,12,37.68472965764215,38.08067109582865,PC1 share of total unstandardized item variance
+The Satisfaction with Life Scale,EFA,43,5,1,38.826745206324446,100.0,F1 sum of squared pattern loadings divided by item count
+Varieties of Inner Speech Questionnaire-R,PCA,13,26,5,44.460519453804245,52.21416150010584,PC1 share of total unstandardized item variance

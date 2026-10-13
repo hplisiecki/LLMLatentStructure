@@ -1,0 +1,6 @@
+side,cluster_rank,size,centroid_cos_beta,coherence,top_words
+pos,1,39,0.6075785268142408,0.7009871399103071,"dizziness, nausea, tiredness, numbness, drowsiness, restlessness, lethargy, palpitations, irritability, tingling"
+pos,2,35,0.5911623830192606,0.7133100154788433,"trembling, stared, shuddered, gasped, trembled, shivered, blinked, gasping, awoke, panting"
+pos,3,26,0.5811315416655203,0.7384963317131964,"despair, sadness, anguish, hopelessness, sorrow, grief, loneliness, dread, helplessness, agony"
+neg,1,48,-0.4207164040610658,0.6037549902213759,"sponsored, representatives, sponsors, funded, sponsor, membership, sponsoring, partnerships, incentives, partnering"
+neg,2,52,-0.4175020244095094,0.5994192202552351,"restaurants, catering, cater, friendly, venues, catered, affordable, caters, establishments, upscale"

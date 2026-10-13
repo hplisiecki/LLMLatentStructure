@@ -1,0 +1,622 @@
+{
+  "annotations/handbook.pdf": {
+    "bytes": 32225,
+    "sha256": "3047ac6230bc4896e394c6ffb24214b173db6e632042609565babdfff5f0e0cb"
+  },
+  "data/annotations/eligible_items.csv": {
+    "bytes": 310055,
+    "sha256": "360a62f977eeacc69c42c2ddfd0f58ec6c9841880d17ba3973f279781f8e46df"
+  },
+  "data/annotations/production_manifest.csv": {
+    "bytes": 168753,
+    "sha256": "d90e5b2845c7991de9ab84c23b351f6628e0070c1130042d100e48d959b92673"
+  },
+  "data/annotations/ratings.csv": {
+    "bytes": 51205,
+    "sha256": "ada3e59432b79fad962342f086a940ce7d7eaaf5a50b8c8da8fd8af9b8ab3a13"
+  },
+  "data/annotations/training_sample_manifest.csv": {
+    "bytes": 254,
+    "sha256": "829ac61b17578e3c72b3b57f4008c53181b0a76933967c1ebd7e520e228cd0fe"
+  },
+  "data/factor_loadings/Adult Temperament Questionnaire__human_simulation.csv": {
+    "bytes": 41372,
+    "sha256": "e1f82c7b96ea41f1dea56e0594805c8c4bccb41476ef4c344d3efa0bdd74c9e9"
+  },
+  "data/factor_loadings/Adult Temperament Questionnaire__llm_analog.csv": {
+    "bytes": 41370,
+    "sha256": "42cd61f95ef5782951042f524ce3a87b25863f013bd4c07867e6d49db571574d"
+  },
+  "data/factor_loadings/Adult Temperament Questionnaire__neutral.csv": {
+    "bytes": 46171,
+    "sha256": "65d3ac7894a452aa40ee1c271ed67cc149091271098509e94d67d771069d4d56"
+  },
+  "data/factor_loadings/Ambivalent Sexism Inventory__human_simulation.csv": {
+    "bytes": 2553,
+    "sha256": "48f7fd5dfac5ed3163b29c1df76aa304858851ae366d2bf563b0ff0d7be738fa"
+  },
+  "data/factor_loadings/Ambivalent Sexism Inventory__llm_analog.csv": {
+    "bytes": 2547,
+    "sha256": "9462079ba601fdf167f2ad852fb3f357bad4cd228497aea91e53cb4e5be6b37d"
+  },
+  "data/factor_loadings/Ambivalent Sexism Inventory__neutral.csv": {
+    "bytes": 2104,
+    "sha256": "899616c2f317eceafc1173711e452209e410637c02d2776a03d329992d9cab64"
+  },
+  "data/factor_loadings/BAI__human_simulation.csv": {
+    "bytes": 734,
+    "sha256": "31ef6a9d070494b388518de369632bb05f6bb983ed0a7bed0a67e12b8d44b401"
+  },
+  "data/factor_loadings/BAI__llm_analog.csv": {
+    "bytes": 733,
+    "sha256": "b1e5a8e9d821304cf995c63c6b31a761a83b0bf9747fd7e9a6e7367a1995702e"
+  },
+  "data/factor_loadings/BAI__neutral.csv": {
+    "bytes": 735,
+    "sha256": "1995a74a18ed42203a8d23a4baa70a78c60c3264c39c3e761143ffbc9d99b42c"
+  },
+  "data/factor_loadings/Balanced Inventory of Desirable Responding Version 6__human_simulation.csv": {
+    "bytes": 5305,
+    "sha256": "59c46e951a1dc8cfee1e94cd2833252802c396955808a59605849bf3bf50a18e"
+  },
+  "data/factor_loadings/Balanced Inventory of Desirable Responding Version 6__llm_analog.csv": {
+    "bytes": 3712,
+    "sha256": "5ad1720bcc368382c00f4f4c784fd25579ffb9891754ba5c99f26f926a3b6091"
+  },
+  "data/factor_loadings/Balanced Inventory of Desirable Responding Version 6__neutral.csv": {
+    "bytes": 4529,
+    "sha256": "4ecb9a1f869c9f42b699f3302739fd2ba51aa4d0233d3d6d92eda55d5ccfadbc"
+  },
+  "data/factor_loadings/Basic Psychological Needs Scale__human_simulation.csv": {
+    "bytes": 11258,
+    "sha256": "50974d571926f730f101e5a0eb731b643fb127445913519a22f22d6c675e57c7"
+  },
+  "data/factor_loadings/Basic Psychological Needs Scale__llm_analog.csv": {
+    "bytes": 13388,
+    "sha256": "0aa662ff646eed1822fe84f873d1e659711275c738a312646544364a807664d1"
+  },
+  "data/factor_loadings/Basic Psychological Needs Scale__neutral.csv": {
+    "bytes": 13388,
+    "sha256": "74975a2a7710fb3d8e8100af014ffd343db1b0f03bbad27b8e2dc77c8686cf28"
+  },
+  "data/factor_loadings/Bayesian Racism Scale__human_simulation.csv": {
+    "bytes": 955,
+    "sha256": "f0b10c1bd518a03a5648a5690662806386f24f7ce77d250c0987b03d73478d7f"
+  },
+  "data/factor_loadings/Bayesian Racism Scale__llm_analog.csv": {
+    "bytes": 955,
+    "sha256": "05ed88d998a16e243715b4a5a51417fae4002c9068634f9405fdf1b86dc1a4eb"
+  },
+  "data/factor_loadings/Bayesian Racism Scale__neutral.csv": {
+    "bytes": 955,
+    "sha256": "2be3266a20915764ed57524f93f9a0f0527a83a8d03f3e9f880f44ed40f59682"
+  },
+  "data/factor_loadings/Belief in a Just World Scale__human_simulation.csv": {
+    "bytes": 582,
+    "sha256": "7318cd1a92bb004d965a50695ff30202f3d5487292ba64e106c253f0647fb2e3"
+  },
+  "data/factor_loadings/Belief in a Just World Scale__llm_analog.csv": {
+    "bytes": 583,
+    "sha256": "0546cd73a75111a428ae8293e60e026f483c7ce60ebafd99f29d600b76736b7f"
+  },
+  "data/factor_loadings/Belief in a Just World Scale__neutral.csv": {
+    "bytes": 582,
+    "sha256": "b6144d9c485e17466e6fc66b89287bcfc264cff421967785b836c4c30db64cd7"
+  },
+  "data/factor_loadings/BFI-2__human_simulation.csv": {
+    "bytes": 15636,
+    "sha256": "1e0d8e09f79654ad68dfbad6919c88130e6a4a0b9f396d74603d95dd2c9f42d0"
+  },
+  "data/factor_loadings/BFI-2__llm_analog.csv": {
+    "bytes": 19378,
+    "sha256": "c14840f52e0e2be5452f84988c357376fe9f5c5f4b373d2f8052febce68c99c8"
+  },
+  "data/factor_loadings/BFI-2__neutral.csv": {
+    "bytes": 15700,
+    "sha256": "b015a268c9a9c3719737474c24e2f16b878e0ac6f457747941ac4e55875904d0"
+  },
+  "data/factor_loadings/BIS_BAS Scales__human_simulation.csv": {
+    "bytes": 2849,
+    "sha256": "20bbf21024220545926c4192ce70741efae310004269d7647048e7421d710ae2"
+  },
+  "data/factor_loadings/BIS_BAS Scales__llm_analog.csv": {
+    "bytes": 1873,
+    "sha256": "c4a4d6faa33bb769d9b7fe8c79179d5bfeaaa88f190512c8420d1e6d75581d24"
+  },
+  "data/factor_loadings/BIS_BAS Scales__neutral.csv": {
+    "bytes": 2356,
+    "sha256": "5705bc578bd329f1549b4860dee56bec9d622db92d3bcca8797c9fd59b7ceafd"
+  },
+  "data/factor_loadings/BSI__human_simulation.csv": {
+    "bytes": 9543,
+    "sha256": "5a825d5ad2f8465fb86644fa2800b25f0876087f8c4639e6e16f02a260a7c506"
+  },
+  "data/factor_loadings/BSI__llm_analog.csv": {
+    "bytes": 6062,
+    "sha256": "01e944ce1bc9fb8ccb90b6ee9eb49781095addba9a85d0a38789107e38cafe88"
+  },
+  "data/factor_loadings/BSI__neutral.csv": {
+    "bytes": 6265,
+    "sha256": "731b9015e09d7663d53a81c3b7257488b4932a4f70c673b4dbeab1e6fbb51777"
+  },
+  "data/factor_loadings/CERQ (Cognitive Emotion Regulation Questionnaire)__human_simulation.csv": {
+    "bytes": 4204,
+    "sha256": "a38fc2a4c2b2d8ff91c8823428b48e000764eb24c82325282e7be9ce2e764265"
+  },
+  "data/factor_loadings/CERQ (Cognitive Emotion Regulation Questionnaire)__llm_analog.csv": {
+    "bytes": 3468,
+    "sha256": "22bc3321765fca16795a787fcfed2e9ef1600e7872f89b9348b1c44cecf0592a"
+  },
+  "data/factor_loadings/CERQ (Cognitive Emotion Regulation Questionnaire)__neutral.csv": {
+    "bytes": 3473,
+    "sha256": "86f0c648adf954156b2012d78881048977f145a04d3baa81ce853842d1edee1a"
+  },
+  "data/factor_loadings/CMQ Conspiracy mentality__human_simulation.csv": {
+    "bytes": 495,
+    "sha256": "dbf0dc904996c58cdae55d1e493231228474fc6afcbba80a61857e6b50805ed7"
+  },
+  "data/factor_loadings/CMQ Conspiracy mentality__llm_analog.csv": {
+    "bytes": 488,
+    "sha256": "c055e9ac2b7b92ef3ec1d9892e7edafd2c129b306374d46af62ce254af9c4427"
+  },
+  "data/factor_loadings/CMQ Conspiracy mentality__neutral.csv": {
+    "bytes": 492,
+    "sha256": "bf84188765b158e4870a57eae9f8b7e6dbae7db6c84d76b277b340e514b50ea1"
+  },
+  "data/factor_loadings/COPE Inventory__human_simulation.csv": {
+    "bytes": 1491,
+    "sha256": "74fee0e6ff77af860d468104715bedbc28f69f984e8693af4dc1b4c17dfaad10"
+  },
+  "data/factor_loadings/COPE Inventory__llm_analog.csv": {
+    "bytes": 1463,
+    "sha256": "05c654829ca894fb7728dd4000169876c08cb6fb3f00a51f64370269ef842319"
+  },
+  "data/factor_loadings/COPE Inventory__neutral.csv": {
+    "bytes": 2020,
+    "sha256": "e65ca8c02dbe8646a26114ce65eba1aeb9417a4ad65e70469696e4a271d49020"
+  },
+  "data/factor_loadings/DASS-21__human_simulation.csv": {
+    "bytes": 1939,
+    "sha256": "c408109fc4e1bb96a3a646d007093fbb5538626791fb54fde0afa7b861a9c4a5"
+  },
+  "data/factor_loadings/DASS-21__llm_analog.csv": {
+    "bytes": 1943,
+    "sha256": "1fa1a45085c7af2b5481a7f0d57e543a69062aae58afb8bbc35753fbeb9c49ee"
+  },
+  "data/factor_loadings/DASS-21__neutral.csv": {
+    "bytes": 1512,
+    "sha256": "c97f555a1312abbf98dbab4329a494d7797a733de15d235acf99df8513bc0747"
+  },
+  "data/factor_loadings/DERS (Difficulties in Emotion Regulation Scale)__human_simulation.csv": {
+    "bytes": 4187,
+    "sha256": "9552ce5840f3fd5ed6c52bc09ec00669e045a3c3cc1d92929c117495dea2c822"
+  },
+  "data/factor_loadings/DERS (Difficulties in Emotion Regulation Scale)__llm_analog.csv": {
+    "bytes": 3423,
+    "sha256": "44c22e58715bbdfabd4cb150ca90a46eb13ce0a8ccbc71f9c61fae14ff14af51"
+  },
+  "data/factor_loadings/DERS (Difficulties in Emotion Regulation Scale)__neutral.csv": {
+    "bytes": 3444,
+    "sha256": "b97f8c1c6fd3d6c144e88ee10d8d14e00eee3276309cad89dc94034ceeae79d2"
+  },
+  "data/factor_loadings/ECR-R (Experiences in Close Relationships\u2013Revised)__human_simulation.csv": {
+    "bytes": 5095,
+    "sha256": "9ba4baa029da02c4065fb81f36e6c8572dbbb0562a3a252605fbda9d11617045"
+  },
+  "data/factor_loadings/ECR-R (Experiences in Close Relationships\u2013Revised)__llm_analog.csv": {
+    "bytes": 3633,
+    "sha256": "b033f4bba747393b43b65ef1a2239075a0c38e61b6b4ebc3046b574ee2ea5be2"
+  },
+  "data/factor_loadings/ECR-R (Experiences in Close Relationships\u2013Revised)__neutral.csv": {
+    "bytes": 3639,
+    "sha256": "d29f7b23d1aa6181216e8880a57f92e442e8c00fb452c16a4075e8c514e86757"
+  },
+  "data/factor_loadings/EMOTION REGULATION QUESTIONNAIRE (ERQ)___human_simulation.csv": {
+    "bytes": 1253,
+    "sha256": "00f7384b52073dbc9d7af75f98d8d796d8e2acfa470b84b014227d889911e6f7"
+  },
+  "data/factor_loadings/EMOTION REGULATION QUESTIONNAIRE (ERQ)___llm_analog.csv": {
+    "bytes": 1457,
+    "sha256": "dbb619f237ad283ae5bb673e853a14b9b09894426672aeb0bd2dcb2d1ce8bffb"
+  },
+  "data/factor_loadings/EMOTION REGULATION QUESTIONNAIRE (ERQ)___neutral.csv": {
+    "bytes": 1050,
+    "sha256": "d219dba5ac9bebaf87502f02c85fed565bc0a79fbe3284d825283a26d19db0e5"
+  },
+  "data/factor_loadings/EPQ-R__human_simulation.csv": {
+    "bytes": 66391,
+    "sha256": "d07117c4c135be12a6eb14716c999f0c1a10c74b61bfb457315e5c0d35b08c1b"
+  },
+  "data/factor_loadings/EPQ-R__llm_analog.csv": {
+    "bytes": 74038,
+    "sha256": "822d3f37cf679e13e9d457ac529365a544d89c88392829c79852c6229c71b685"
+  },
+  "data/factor_loadings/EPQ-R__neutral.csv": {
+    "bytes": 65798,
+    "sha256": "f5ac6c8b0b0a33cc5f0a6ee7f5f32af2af6947207932359502bcefebe5a3742b"
+  },
+  "data/factor_loadings/Five Facet Mindfullness Questionnaire (FFMQ)__human_simulation.csv": {
+    "bytes": 4557,
+    "sha256": "3020160e4b92cd7f0f55764f9485edccc68d2daf62942c7e6559fba533522e81"
+  },
+  "data/factor_loadings/Five Facet Mindfullness Questionnaire (FFMQ)__llm_analog.csv": {
+    "bytes": 4538,
+    "sha256": "ca11e3de6512135cc4a835a9956f7411a6309608f006a2934d34cd56035370b3"
+  },
+  "data/factor_loadings/Five Facet Mindfullness Questionnaire (FFMQ)__neutral.csv": {
+    "bytes": 5377,
+    "sha256": "869d234a2747f732ad221dfc8f44ff43bb2c9cadd7e4d54d955e904542e1d6f8"
+  },
+  "data/factor_loadings/Gavagai__human_simulation.csv": {
+    "bytes": 731,
+    "sha256": "f57c3042cc1cf75600728b4ebc66a9b0ae57f46a10ebb9fa0d396ab63b196add"
+  },
+  "data/factor_loadings/Gavagai__llm_analog.csv": {
+    "bytes": 888,
+    "sha256": "9033b27dc8136f909495adbd2a9cad6ad9323febec2f6e94399c974dc7b4deb7"
+  },
+  "data/factor_loadings/Gavagai__neutral.csv": {
+    "bytes": 885,
+    "sha256": "e7df8e5f77dd8519bcc1065fe2feb4b5dd021a89217a9a7fdd50d1bd840069af"
+  },
+  "data/factor_loadings/HEXACO__human_simulation.csv": {
+    "bytes": 54200,
+    "sha256": "4adb88cb40bd652bb7b96efcf734f24638473b3298ce065b97432962181334bf"
+  },
+  "data/factor_loadings/HEXACO__llm_analog.csv": {
+    "bytes": 78992,
+    "sha256": "7e6dd6a67780094b62187cd92d9e881a43d11db82f5d54f81aeff6a712f86928"
+  },
+  "data/factor_loadings/HEXACO__neutral.csv": {
+    "bytes": 68556,
+    "sha256": "730f605c42c3064fd8cc5bef64413c688008adddefc938281afcd3ae44578a94"
+  },
+  "data/factor_loadings/Individualism-collectivism IND-COL__human_simulation.csv": {
+    "bytes": 3240,
+    "sha256": "c28840ecaa2d0e0097111828e9c9dcd81db6090fe3e796ac1287339ac872380e"
+  },
+  "data/factor_loadings/Individualism-collectivism IND-COL__llm_analog.csv": {
+    "bytes": 3897,
+    "sha256": "60978106dfc39b474c8037480e66ea896f01a81c13eb87feba6b59ccbb5099f8"
+  },
+  "data/factor_loadings/Individualism-collectivism IND-COL__neutral.csv": {
+    "bytes": 3898,
+    "sha256": "efecf047da923bf64dcd9479953b86ad8d77dd07cc667426c4984eb5c05189d4"
+  },
+  "data/factor_loadings/Interpersonal Reactivity Index (IRI)__human_simulation.csv": {
+    "bytes": 3932,
+    "sha256": "fb1442bfcaf17b09159c22ea05226103e56396239767a800bd459aa0f9b4d46a"
+  },
+  "data/factor_loadings/Interpersonal Reactivity Index (IRI)__llm_analog.csv": {
+    "bytes": 3372,
+    "sha256": "62eb4925c7925988cb9332bc7357fc51aafe8aaa528129198127cf10b0df64bc"
+  },
+  "data/factor_loadings/Interpersonal Reactivity Index (IRI)__neutral.csv": {
+    "bytes": 3379,
+    "sha256": "0b97875773e0df393aa096af8b36ec1fb45fc980347136976eece3fac18c020d"
+  },
+  "data/factor_loadings/MCQ-30__human_simulation.csv": {
+    "bytes": 3084,
+    "sha256": "253dbb430f1fc9e5e303e789ed015ebc4cc16e1e1a70c0c8e2e12351c76ef740"
+  },
+  "data/factor_loadings/MCQ-30__llm_analog.csv": {
+    "bytes": 3771,
+    "sha256": "25b0ad5da2f95263173870c0e9cd976030eb81be7e3f19beefd62fd24091f093"
+  },
+  "data/factor_loadings/MCQ-30__neutral.csv": {
+    "bytes": 1969,
+    "sha256": "cdbb3ed366fa5fd40b7ab2c2990d60ae163ce941835170338b6e30eacbad1143"
+  },
+  "data/factor_loadings/Meaning in Life Questionnaire (MLQ)__human_simulation.csv": {
+    "bytes": 882,
+    "sha256": "d698353600eb44eb7915b4aa4eec57d0712eea5f05127d42d50572aaf641b671"
+  },
+  "data/factor_loadings/Meaning in Life Questionnaire (MLQ)__llm_analog.csv": {
+    "bytes": 882,
+    "sha256": "4d8d8e65ad0085786c13a948492e8eee24c60a6d82197162f4933b6e06cb5be3"
+  },
+  "data/factor_loadings/Meaning in Life Questionnaire (MLQ)__neutral.csv": {
+    "bytes": 886,
+    "sha256": "ea61bc3108fcc8d7cb7ed28d9321ae9b4f3f8333146f55ff4c761a0b73695859"
+  },
+  "data/factor_loadings/Moral Foundations Questionnaire (MFQ-30)__human_simulation.csv": {
+    "bytes": 4605,
+    "sha256": "616c6ed8ac2308e0199bd466321526e358270aebd311bc46a63f47e1686aeaf6"
+  },
+  "data/factor_loadings/Moral Foundations Questionnaire (MFQ-30)__llm_analog.csv": {
+    "bytes": 3942,
+    "sha256": "7e74ad2a28b7c596581fb05746e35747a2a5415dae74fd81f517ffd37014d9cf"
+  },
+  "data/factor_loadings/Moral Foundations Questionnaire (MFQ-30)__neutral.csv": {
+    "bytes": 3290,
+    "sha256": "addcbed4e9eec996f145beab370c500db2cd3340b8d5dce395e16ec83c1495e8"
+  },
+  "data/factor_loadings/Need for Closure Scale (NFCS)__human_simulation.csv": {
+    "bytes": 7264,
+    "sha256": "79e1d4f2d83579c043090fe71fcf7b54c898efcd40fc99e2362067b5ae4a7b9c"
+  },
+  "data/factor_loadings/Need for Closure Scale (NFCS)__llm_analog.csv": {
+    "bytes": 8129,
+    "sha256": "70b6fb0dfb73d1353fd2f58ff6706f70db8de8e4675f02c3b4cd403b1c06ddb5"
+  },
+  "data/factor_loadings/Need for Closure Scale (NFCS)__neutral.csv": {
+    "bytes": 5590,
+    "sha256": "d2f12ffc7c0b4f141188b26a29d464cb809ec128db689b16f3a925ac82ce1623"
+  },
+  "data/factor_loadings/NEED FOR COGNITION SCALE__human_simulation.csv": {
+    "bytes": 2102,
+    "sha256": "dbea2644bd2ed05b6af04e8466b4f69380635dc27f17419f7c122fdce06a21b5"
+  },
+  "data/factor_loadings/NEED FOR COGNITION SCALE__llm_analog.csv": {
+    "bytes": 2109,
+    "sha256": "a02679efa58d7ec5ab3e5c83f4f6e7d60cdb8ed344eae063ac349812256d309c"
+  },
+  "data/factor_loadings/NEED FOR COGNITION SCALE__neutral.csv": {
+    "bytes": 2109,
+    "sha256": "94ee96d037692a1268a8a5d500f539cfbe7009dee6da857967d839d41a5acc45"
+  },
+  "data/factor_loadings/Personal Need for Structure (PNS) Scale__human_simulation.csv": {
+    "bytes": 935,
+    "sha256": "40b9a512e08152dde1e52319a35be633215ebae87cc0c63da761e10edab31cf3"
+  },
+  "data/factor_loadings/Personal Need for Structure (PNS) Scale__llm_analog.csv": {
+    "bytes": 1170,
+    "sha256": "34256b7f177d2eb7e9eca87e2040ba243ebb591d5bcf67f628d589ccdfc902c5"
+  },
+  "data/factor_loadings/Personal Need for Structure (PNS) Scale__neutral.csv": {
+    "bytes": 1418,
+    "sha256": "66905b2a20baa9aca8be24f74949ce468761d314ab83ad08360a6ffeeced708f"
+  },
+  "data/factor_loadings/PROTESTANT WORK ETHIC SCALE___human_simulation.csv": {
+    "bytes": 2468,
+    "sha256": "cd8e584fb44d2a2a030137663a07e0498dfe1baba64c072ac73f647f39969ccc"
+  },
+  "data/factor_loadings/PROTESTANT WORK ETHIC SCALE___llm_analog.csv": {
+    "bytes": 2064,
+    "sha256": "138814e75b814999308ed9d711819a3600cf6e5d40defae3fa675e17221eacda"
+  },
+  "data/factor_loadings/PROTESTANT WORK ETHIC SCALE___neutral.csv": {
+    "bytes": 2854,
+    "sha256": "ac129cb432ce6717e0de9c48c895e63de130e437d7d145b314ab0bc038dca539"
+  },
+  "data/factor_loadings/Psychological Well-Being Scales__human_simulation.csv": {
+    "bytes": 13473,
+    "sha256": "07ace78ca2d1400dc75f8fe503b4464edf34da5783b5e53fa3f8d2752f23f306"
+  },
+  "data/factor_loadings/Psychological Well-Being Scales__llm_analog.csv": {
+    "bytes": 10002,
+    "sha256": "3c541fafd8f41736da77a868144011369dad524543620106b6db758cba60ce96"
+  },
+  "data/factor_loadings/Psychological Well-Being Scales__neutral.csv": {
+    "bytes": 8267,
+    "sha256": "97d1b38002835d571094f9074713299b538ca9064d788c6f29d35bdc5cc1d1e1"
+  },
+  "data/factor_loadings/Religious Orientation Scale-R__human_simulation.csv": {
+    "bytes": 1379,
+    "sha256": "47cc47f9a1bf6113364ea2be31b810a87a5e3781e0ac5064d0e27a6ded95e2d3"
+  },
+  "data/factor_loadings/Religious Orientation Scale-R__llm_analog.csv": {
+    "bytes": 1095,
+    "sha256": "4ddb2c971151a4501054ec950b87cd7f1cd9eee210a9c6b37cc099a234763e18"
+  },
+  "data/factor_loadings/Religious Orientation Scale-R__neutral.csv": {
+    "bytes": 1375,
+    "sha256": "0467747f72a0a263e8f32d74a2431982a867260aee4184523e325787186b1007"
+  },
+  "data/factor_loadings/Rosenberg Self-Esteem Scale__human_simulation.csv": {
+    "bytes": 885,
+    "sha256": "e880c34fca4b2f349bcb6f4e78bf6d4dedf885ae44e29aedd6cb10fa77aa94bb"
+  },
+  "data/factor_loadings/Rosenberg Self-Esteem Scale__llm_analog.csv": {
+    "bytes": 885,
+    "sha256": "34f5a0c6ad17748d4dc5152eddafadfb50bbab7793559db3eee2ffccd1e15676"
+  },
+  "data/factor_loadings/Rosenberg Self-Esteem Scale__neutral.csv": {
+    "bytes": 888,
+    "sha256": "cd3d7e136375efde9e90c459471ecfb099aa456f3eb6fbfe0a425c4063d9b4cd"
+  },
+  "data/factor_loadings/RWA scale 22-item__human_simulation.csv": {
+    "bytes": 4334,
+    "sha256": "8db7c99078c3308c0196bedb5e12e1b81de233633d9ea649ae93a9bcc89d55ba"
+  },
+  "data/factor_loadings/RWA scale 22-item__llm_analog.csv": {
+    "bytes": 3447,
+    "sha256": "39a02e6e2b8912832f37dbd436e31877c306b6c734f85be452a24a6d7b0b6fd0"
+  },
+  "data/factor_loadings/RWA scale 22-item__neutral.csv": {
+    "bytes": 4332,
+    "sha256": "d510ca04c68e4d17d4e9efc4f61aea0bdb9b23e06356c31c53143bceac886205"
+  },
+  "data/factor_loadings/Schwartz_Values__human_simulation.csv": {
+    "bytes": 3646,
+    "sha256": "da3448721ca1ae256b5a72e6465bbe8dd70e26db33141b89d04975f85cb3221f"
+  },
+  "data/factor_loadings/Schwartz_Values__llm_analog.csv": {
+    "bytes": 2402,
+    "sha256": "b57b07ab19d61412bd74711240cc6c4510304f28f1e14ac068238bb76fcc02dd"
+  },
+  "data/factor_loadings/Schwartz_Values__neutral.csv": {
+    "bytes": 3022,
+    "sha256": "cfd3068ccff53b4d40312dc890cbc036155850a6198d41734981281cff3b4a69"
+  },
+  "data/factor_loadings/Self-Monitoring Scale-Revised__human_simulation.csv": {
+    "bytes": 1598,
+    "sha256": "efcba0c380c8f61276de06a433f1b6a0f0e3f0d05685fef775008323f3a8ab3a"
+  },
+  "data/factor_loadings/Self-Monitoring Scale-Revised__llm_analog.csv": {
+    "bytes": 1852,
+    "sha256": "f4bb3de76fa64aaf2095e5e5ab9bbf637fa658cf0655ff53b3cbf46775cb3361"
+  },
+  "data/factor_loadings/Self-Monitoring Scale-Revised__neutral.csv": {
+    "bytes": 1850,
+    "sha256": "32998a77d18eda13842f5f7f08bb9911e03bfa1017f23789db50d706a309d271"
+  },
+  "data/factor_loadings/Self-Monitoring Scale__human_simulation.csv": {
+    "bytes": 2855,
+    "sha256": "b67e3bb0f2aba6590824b8753db4f9d7b11128630006403281cab1046ca9b5e2"
+  },
+  "data/factor_loadings/Self-Monitoring Scale__llm_analog.csv": {
+    "bytes": 2864,
+    "sha256": "0710641653a6222138fec184cc1f0d647ace0f68aa6896002268ae9308bd9e77"
+  },
+  "data/factor_loadings/Self-Monitoring Scale__neutral.csv": {
+    "bytes": 3363,
+    "sha256": "cff42097721944ca1a89994b5ad85c77f3c1d158d84c2c9957dfb71e580c083a"
+  },
+  "data/factor_loadings/Self-Talk Scale__human_simulation.csv": {
+    "bytes": 1426,
+    "sha256": "2beb6667b0b653327c2178ecdb94694d989aa36b61bc731cdf9e3dbddb5b9212"
+  },
+  "data/factor_loadings/Self-Talk Scale__llm_analog.csv": {
+    "bytes": 1425,
+    "sha256": "9642443c58935623ed07cbd47fa893daf8656fa01d83f4547751f5b208f2ed2d"
+  },
+  "data/factor_loadings/Self-Talk Scale__neutral.csv": {
+    "bytes": 1121,
+    "sha256": "96fb1dc7a0c17f18a2cac4f5c1f0e19438123566e1ae172736d8624e97dc3e60"
+  },
+  "data/factor_loadings/Social Dominance Orientation Scale 7__human_simulation.csv": {
+    "bytes": 1288,
+    "sha256": "086aaf3dc89b1d72f6853db6c88e537d78706c0fc15ad9f29d3e12884a4841ac"
+  },
+  "data/factor_loadings/Social Dominance Orientation Scale 7__llm_analog.csv": {
+    "bytes": 1281,
+    "sha256": "ab292252a06165cbfa2845cff799422576d27171ad361316f3587f5f5b3ac310"
+  },
+  "data/factor_loadings/Social Dominance Orientation Scale 7__neutral.csv": {
+    "bytes": 1281,
+    "sha256": "bc61aa5d21800b905376f26817d8d045e37a10b2132ad04ecc8aacb2277f2c94"
+  },
+  "data/factor_loadings/Spheres of Control-3__human_simulation.csv": {
+    "bytes": 3278,
+    "sha256": "2f928687274f75e0eb6b3f879d9ca11dae9aad2c55bd39245b425b75ccfe6e6d"
+  },
+  "data/factor_loadings/Spheres of Control-3__llm_analog.csv": {
+    "bytes": 3457,
+    "sha256": "49f9565b4282e6077c50b93ccd3cc216b1fb769c7ef2516e51e64dfcc34f149b"
+  },
+  "data/factor_loadings/Spheres of Control-3__neutral.csv": {
+    "bytes": 4075,
+    "sha256": "02eb83fe5c633e825151079eaa10757e0ac989ee57e3a6d53b11b12bde85b70a"
+  },
+  "data/factor_loadings/State Trait Anxiety Inventory__human_simulation.csv": {
+    "bytes": 6638,
+    "sha256": "55974a4d889403d6eacf2fbe995baaec04f1475fbb324032f4e5d5c7d459c2b1"
+  },
+  "data/factor_loadings/State Trait Anxiety Inventory__llm_analog.csv": {
+    "bytes": 5029,
+    "sha256": "d48156a65d1eb9cbd9858520c47cbf5b9620638d2002c2b5a05e12ba62f1ac09"
+  },
+  "data/factor_loadings/State Trait Anxiety Inventory__neutral.csv": {
+    "bytes": 7437,
+    "sha256": "82a43aa3ba4c298cc48601cb69321f159ac9ea8f4164cc26ce7822061f3db643"
+  },
+  "data/factor_loadings/summary.csv": {
+    "bytes": 8105,
+    "sha256": "3bf659d222519e5e2320a6533061af328812f7b812bdf8a45c381a3fca6470f5"
+  },
+  "data/factor_loadings/SVQ__human_simulation.csv": {
+    "bytes": 3200,
+    "sha256": "744e68a9c592b761182c061250bd7d07b2065b2b42b3c8d451db0141f3dc9660"
+  },
+  "data/factor_loadings/SVQ__llm_analog.csv": {
+    "bytes": 2663,
+    "sha256": "7546a662781bc814d3ffee3d6e3468525a584f77ec1005581142290711376564"
+  },
+  "data/factor_loadings/SVQ__neutral.csv": {
+    "bytes": 3204,
+    "sha256": "35cf3727c1e10143bb3496cf0eae93900d9336fb2b4cf1a12a6e21d7e4822433"
+  },
+  "data/factor_loadings/The Internal Representation Questionnaire__human_simulation.csv": {
+    "bytes": 5531,
+    "sha256": "28eb1e86b17938e95f819a5b97ae58e5b4380f37de3c89ae399b9e41e8966ab2"
+  },
+  "data/factor_loadings/The Internal Representation Questionnaire__llm_analog.csv": {
+    "bytes": 4010,
+    "sha256": "849520fb5f31ace3c6084f5b8c27dcbcd32c673405bf90b887e1296fe8ba9e47"
+  },
+  "data/factor_loadings/The Internal Representation Questionnaire__neutral.csv": {
+    "bytes": 11419,
+    "sha256": "41c252f998b8905f693f7bf102109e4968946192ac164e84bca787ffd7f8faed"
+  },
+  "data/factor_loadings/The Satisfaction with Life Scale__human_simulation.csv": {
+    "bytes": 336,
+    "sha256": "24b137c93fc190a09dfd6bd385e929fdab05fa4a1b5c7372e08e8267671d3fdb"
+  },
+  "data/factor_loadings/The Satisfaction with Life Scale__llm_analog.csv": {
+    "bytes": 338,
+    "sha256": "34885d7e489fa7070614d2841f4dcda6acbab7bbf2154ad660fc1d7808f65c20"
+  },
+  "data/factor_loadings/The Satisfaction with Life Scale__neutral.csv": {
+    "bytes": 335,
+    "sha256": "06564fb978395cae01d05c652f9486069e6ac2473345c478023783334ea01f19"
+  },
+  "data/factor_loadings/Varieties of Inner Speech Questionnaire-R__human_simulation.csv": {
+    "bytes": 3865,
+    "sha256": "768af1102017c7c471096fc982446ba891b3975d5e58f33d6e50e5403e17d1f0"
+  },
+  "data/factor_loadings/Varieties of Inner Speech Questionnaire-R__llm_analog.csv": {
+    "bytes": 3348,
+    "sha256": "ca612c3250c44d324807c4d3a7af3cf7bb49cad093a1f1d7dd3b9ca7a5c863d0"
+  },
+  "data/factor_loadings/Varieties of Inner Speech Questionnaire-R__neutral.csv": {
+    "bytes": 4982,
+    "sha256": "509b8fc6cca2b8ab1dd3df7c6f4ff27ea616af6a73cfeafe505a9f06055ba90d"
+  },
+  "data/included_questionnaires.csv": {
+    "bytes": 1271,
+    "sha256": "309c8f12a346d8c761f614c4f47c94db8e231ce4fe6135d92ea4904df26fb695"
+  },
+  "data/model_splits.csv": {
+    "bytes": 71092,
+    "sha256": "ba66f13a35ff50e9b8d0a5db375b515f7bb8f407060910bcea0f1d0dbdef6ec6"
+  },
+  "data/questionnaire_registry.csv": {
+    "bytes": 29004,
+    "sha256": "39656634d5b1daa8c23437ef081537c82d25b420686776b6523e7e416963039e"
+  },
+  "data/questionnaires.json": {
+    "bytes": 120603,
+    "sha256": "4d04b88fd638f639810abc781c21f3bc595150cf14cf6c331037f521fb102ae1"
+  },
+  "data/responses.csv": {
+    "bytes": 31721531,
+    "sha256": "ba89ebe3f4bb28de6a15cb4c0a66eb294cdd88c6c55963d28673ae0cff262b1b"
+  },
+  "third_party/ssdiff/__init__.py": {
+    "bytes": 203,
+    "sha256": "cbfad2c25ea05f7d0ae5da9132fd475853a2f110265535137a057c7952db0729"
+  },
+  "third_party/ssdiff/clusters.py": {
+    "bytes": 4876,
+    "sha256": "d18d4036eb79925a244fec7943f2108cd642ce07f3f9fac4085658dac160428c"
+  },
+  "third_party/ssdiff/core.py": {
+    "bytes": 35259,
+    "sha256": "ca20dbd88c6710f8ebbad40a9904cc321705656c2006104850ec4570bd2c33a1"
+  },
+  "third_party/ssdiff/LICENSE": {
+    "bytes": 1094,
+    "sha256": "9f3985f98efb73a74e6ce39c3eddd65bb90eea5dc09a4095464dd64c6ba69e7b"
+  },
+  "third_party/ssdiff/preprocess.py": {
+    "bytes": 12359,
+    "sha256": "f0e532c84d7370beb6958b07da0ce99c25dead79b13da5727a655cd600fa1460"
+  },
+  "third_party/ssdiff/snippets.py": {
+    "bytes": 27194,
+    "sha256": "39f1bc0bb8bdc0c57218cf7a1e80c90666e11086b39f7e64beb559642fc27bc4"
+  },
+  "third_party/ssdiff/SOURCE.txt": {
+    "bytes": 230,
+    "sha256": "d04b6fdc1b200531903842270b2a5cf22b2f47641ee2026914f03fd3cda3fd7f"
+  },
+  "third_party/ssdiff/sweep.py": {
+    "bytes": 15427,
+    "sha256": "6c45d82b86c525dba3bfaa7303f37bdf5705208ad79296dd50df0ae9475c9505"
+  },
+  "third_party/ssdiff/utils.py": {
+    "bytes": 10175,
+    "sha256": "7f6983fedb4d79f3574cd344396a9853b5a899a95a6e6a5df39868687d324fba"
+  }
+}
